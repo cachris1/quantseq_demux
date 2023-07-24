@@ -7,13 +7,34 @@
 # scRNAseq pipeline
  
 
+configfile: "config.yaml"
 
+def get_fastqs(wildcards):
+    return config["samples"][wildcards.sample]
 
-rule bwa_map:
+    
+
+rule all:
     input:
-        "data/genome.fa",
-        "data/samples/A.fastq"
+        "./prcessed_data/scRNA_counts_matrix"
+
+rule fastqc:
+    input:
+        get_fastqs
     output:
-        "mapped_reads/A.bam"
+        "./fastqc/"
     shell:
-        "bwa mem {input} | samtools view -Sb - > {output}"
+        "fastqc {input}"
+        
+rule multiqc:
+    input:
+       "./fastqc"
+    output:
+       "./multiqc"
+    shell:
+       "multiqc {input}"
+
+       
+rule star:
+    input:
+       config
