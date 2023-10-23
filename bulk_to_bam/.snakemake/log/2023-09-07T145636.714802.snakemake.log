@@ -1,0 +1,2 @@
+SyntaxError in file /home/cachris/geneva/lyria/bulk_to_bam/Snakefile, line 313:
+unterminated string literal (detected at line 665)

@@ -1,0 +1,268 @@
+Building DAG of jobs...
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/A375.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SH4.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/BxPC3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HCT15.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SW620.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SJSA1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/143B.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/MDA231.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HCC1806.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/PC3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/LNCaP.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/H441.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/H358.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HepG2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Hep3b.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/786O.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Caki1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/U87.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/LN229.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/93E.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/41865.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50073.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/32947_c7.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50004.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5MRLiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2GW3iCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2PFYiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6GNGiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5JAZiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2WW0iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0YJYiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2NDDiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0WD8iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0JCLiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AG0017.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50000.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/35658.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/29iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12240.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/39B.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3XLKiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/184.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6769.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6769_c1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3719.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10739.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10689.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/13454.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/No4.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SOD139B_1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/29iALS_ISO.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2CLNiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2DDGiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ES.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/1B06.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6GHCiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SOD139B_2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5FFPiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/No3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12099.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5280.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3231.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50007.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/OKVBiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2B09.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/39B_Corr.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS5HF7iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS2YNLiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5GR5iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/1RUG.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12100.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AH9iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/11813_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10739_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/9292_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/13454_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS0KHAiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/9711.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/14185.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND35663.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS0KBHiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND09329.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND50082.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc0504.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc1005.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SU8686.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HPAC.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HPAFII.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SW1990.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc0203.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Capan2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AGS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AsPC1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND08957.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND08075.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/A375.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SH4.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/BxPC3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HCT15.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SW620.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SJSA1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/MDA231.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HCC1806.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/PC3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/LNCaP.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HepG2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Hep3b.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/786O.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Caki1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/U87.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/LN229.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/93E.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/41865.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50073.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/32947_c7.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50004.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5MRLiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2GW3iCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2PFYiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6GNGiCTR.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5JAZiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2WW0iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0YJYiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2NDDiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0WD8iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/0JCLiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AG0017.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50000.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/35658.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/29iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12240.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/39B.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3XLKiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/184.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6769.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6769_c1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3719.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10739.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10689.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/13454.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/No4.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SOD139B_1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/29iALS_ISO.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2CLNiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2DDGiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ES.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/1B06.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/6GHCiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SOD139B_2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5FFPiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/No3.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12099.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5280.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/3231.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/50007.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/OKVBiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/2B09.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/39B_Corr.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS5HF7iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS2YNLiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/5GR5iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/1RUG.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/12100.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AH9iALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/11813_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/10739_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/9292_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/13454_fibs.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS0KHAiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/9711.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/14185.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND35663.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/CS0KBHiALS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND09329.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND50082.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc0504.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc1005.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SU8686.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HPAC.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/HPAFII.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/SW1990.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Panc0203.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/Capan2.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AGS.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/AsPC1.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND08957.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+File path /home/cachris/geneva/hypoxia//logsUMI_extract/ND08075.log contains double '/'. This is likely unintended. It can also lead to inconsistent results of the file-matching approach used by Snakemake.
+Using shell: /usr/bin/bash
+Provided cores: 2
+Rules claiming more threads will be scaled down.
+Conda environments: ignored
+Job stats:
+job          count
+---------  -------
+all              1
+demuxlet         6
+merge_vcf        1
+total            8
+
+Select jobs to execute...
+
+[Tue Aug 29 23:53:03 2023]
+rule merge_vcf:
+    input: /home/cachris/geneva/hypoxia/vcfs/A375.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/SH4.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/Panc1.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/BxPC3.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/HCT15.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/SW620.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/SJSA1.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/143B.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/MDA231.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/HCC1806.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/PC3.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/LNCaP.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/H441.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/H358.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/HepG2.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/Hep3b.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/786O.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/Caki1.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/U87.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/LN229.vcf.gz, /home/cachris/geneva/hypoxia/vcfs/A375.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/SH4.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/Panc1.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/BxPC3.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/HCT15.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/SW620.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/SJSA1.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/143B.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/MDA231.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/HCC1806.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/PC3.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/LNCaP.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/H441.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/H358.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/HepG2.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/Hep3b.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/786O.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/Caki1.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/U87.vcf.gz.csi, /home/cachris/geneva/hypoxia/vcfs/LN229.vcf.gz.csi
+    output: /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    jobid: 3
+    reason: Missing output files: /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    threads: 2
+    resources: tmpdir=/tmp
+
+[Tue Aug 29 23:53:07 2023]
+Finished job 3.
+1 of 8 steps (12%) done
+Select jobs to execute...
+
+[Tue Aug 29 23:53:07 2023]
+rule demuxlet:
+    input: /home/cachris/geneva/hypoxia/cellranger_outputs/8-4/possorted_genome_bam.bam, /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    output: /home/cachris/geneva/hypoxia/demuxlet_out/8-4/8-4.best
+    log: /home/cachris/geneva/hypoxia/logs/demuxlet/8-4.log
+    jobid: 139
+    reason: Missing output files: /home/cachris/geneva/hypoxia/demuxlet_out/8-4/8-4.best; Input files updated by another job: /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    wildcards: sc_samples=8-4
+    resources: tmpdir=/tmp
+
+
+[Tue Aug 29 23:53:07 2023]
+rule demuxlet:
+    input: /home/cachris/geneva/hypoxia/cellranger_outputs/21-4/possorted_genome_bam.bam, /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    output: /home/cachris/geneva/hypoxia/demuxlet_out/21-4/21-4.best
+    log: /home/cachris/geneva/hypoxia/logs/demuxlet/21-4.log
+    jobid: 143
+    reason: Missing output files: /home/cachris/geneva/hypoxia/demuxlet_out/21-4/21-4.best; Input files updated by another job: /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    wildcards: sc_samples=21-4
+    resources: tmpdir=/tmp
+
+[Tue Aug 29 23:53:07 2023]
+Error in rule demuxlet:
+    jobid: 139
+    input: /home/cachris/geneva/hypoxia/cellranger_outputs/8-4/possorted_genome_bam.bam, /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    output: /home/cachris/geneva/hypoxia/demuxlet_out/8-4/8-4.best
+    log: /home/cachris/geneva/hypoxia/logs/demuxlet/8-4.log (check log file(s) for error details)
+    conda-env: demuxlet
+    shell:
+        
+        demuxlet         --vcf /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz         --sam /home/cachris/geneva/hypoxia/cellranger_outputs/8-4/possorted_genome_bam.bam         --out /home/cachris/geneva/hypoxia/demuxlet_out/8-4/         --tag-UMI UB         --group-list /home/cachris/geneva/hypoxia/cellranger_outputs/8-4/filtered_feature_bc_matrix/barcodes.tsv.gz         --min-callrate 0.2         --alpha 0.0         --alpha 0.5         > /home/cachris/geneva/hypoxia/logs/demuxlet/8-4.log 2>&1         && mv ./8-4/ /home/cachris/geneva/hypoxia/demuxlet_out/8-4/
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Tue Aug 29 23:53:07 2023]
+Error in rule demuxlet:
+    jobid: 143
+    input: /home/cachris/geneva/hypoxia/cellranger_outputs/21-4/possorted_genome_bam.bam, /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz
+    output: /home/cachris/geneva/hypoxia/demuxlet_out/21-4/21-4.best
+    log: /home/cachris/geneva/hypoxia/logs/demuxlet/21-4.log (check log file(s) for error details)
+    conda-env: demuxlet
+    shell:
+        
+        demuxlet         --vcf /home/cachris/geneva/hypoxia/merged_vcf.vcf.gz         --sam /home/cachris/geneva/hypoxia/cellranger_outputs/21-4/possorted_genome_bam.bam         --out /home/cachris/geneva/hypoxia/demuxlet_out/21-4/         --tag-UMI UB         --group-list /home/cachris/geneva/hypoxia/cellranger_outputs/21-4/filtered_feature_bc_matrix/barcodes.tsv.gz         --min-callrate 0.2         --alpha 0.0         --alpha 0.5         > /home/cachris/geneva/hypoxia/logs/demuxlet/21-4.log 2>&1         && mv ./21-4/ /home/cachris/geneva/hypoxia/demuxlet_out/21-4/
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2023-08-29T235301.824791.snakemake.log

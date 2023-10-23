@@ -1,9 +1,0 @@
-@include "rna/_basic_sc_rna_counter_stages.mro"
-
-call INFER_GEM_WELL_THROUGHPUT(
-    throughput            = null,
-    chemistry_description = "Single Cell 3' v3",
-    filtered_feature_counts_matrix = "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-u9625e28697/files/filtered_matrices_h5.h5",
-    reference_path        = "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
-    barcode_summary_h5    = "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/WRITE_BARCODE_SUMMARY/fork0/chnk0-u9625e28651/files/barcode_summary.h5",
-)

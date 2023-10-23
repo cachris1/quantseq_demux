@@ -1,6 +1,0 @@
-{
-    "filtered_barcodes": "/home/cachris/geneva/lyria/bam_to_demux/60-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-u73b1e2ebc4/files/filtered_barcodes.csv",
-    "probe_barcode_counts": null,
-    "probe_set": null,
-    "reference_path": "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A"
-}

@@ -1,0 +1,415 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+all              1
+demuxlet         6
+index_vcf       20
+merge_vcf        1
+total           28
+
+Select jobs to execute...
+
+[Mon Sep 18 13:24:50 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz.csi
+    jobid: 137
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz.csi
+    wildcards: sample=H358
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz.csi
+    jobid: 129
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz.csi
+    wildcards: sample=SW620
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz.csi
+    jobid: 139
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz.csi
+    wildcards: sample=Hep3b
+    resources: tmpdir=/tmp
+
+
+[Mon Sep 18 13:24:51 2023]
+Activating conda environment: bcftools
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz.csi
+    jobid: 132
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz.csi
+    wildcards: sample=MDA231
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz.csi
+    jobid: 133
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz.csi
+    wildcards: sample=HCC1806
+    resources: tmpdir=/tmp
+
+
+[Mon Sep 18 13:24:51 2023]
+Activating conda environment: bcftools
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz.csi
+    jobid: 143
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz.csi
+    wildcards: sample=LN229
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz.csi
+    jobid: 136
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz.csi
+    wildcards: sample=H441
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz.csi
+    jobid: 138
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz.csi
+    wildcards: sample=HepG2
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz.csi
+    jobid: 131
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz.csi
+    wildcards: sample=143B
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz.csi
+    jobid: 140
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz.csi
+    wildcards: sample=786O
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz.csi
+    jobid: 126
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz.csi
+    wildcards: sample=Panc1
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz.csi
+    jobid: 127
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz.csi
+    wildcards: sample=BxPC3
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+Finished job 137.
+1 of 28 steps (4%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz.csi
+    jobid: 135
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz.csi
+    wildcards: sample=LNCaP
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+Finished job 129.
+2 of 28 steps (7%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 140.
+3 of 28 steps (11%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 139.
+4 of 28 steps (14%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 133.
+5 of 28 steps (18%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 132.
+6 of 28 steps (21%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz.csi
+    jobid: 125
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz.csi
+    wildcards: sample=SH4
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz.csi
+    jobid: 124
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz.csi
+    wildcards: sample=A375
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz.csi
+    jobid: 130
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz.csi
+    wildcards: sample=SJSA1
+    resources: tmpdir=/tmp
+
+
+[Mon Sep 18 13:24:51 2023]
+Activating conda environment: bcftools
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz.csi
+    jobid: 141
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz.csi
+    wildcards: sample=Caki1
+    resources: tmpdir=/tmp
+
+
+[Mon Sep 18 13:24:51 2023]
+Activating conda environment: bcftools
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz.csi
+    jobid: 134
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz.csi
+    wildcards: sample=PC3
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+Finished job 127.
+7 of 28 steps (25%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 131.
+8 of 28 steps (29%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 126.
+9 of 28 steps (32%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 138.
+10 of 28 steps (36%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 143.
+11 of 28 steps (39%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 136.
+12 of 28 steps (43%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz.csi
+    jobid: 128
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz.csi
+    wildcards: sample=HCT15
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 13:24:51 2023]
+rule index_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz.csi
+    jobid: 142
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz.csi
+    wildcards: sample=U87
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:51 2023]
+Finished job 135.
+13 of 28 steps (46%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 141.
+14 of 28 steps (50%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 134.
+15 of 28 steps (54%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 130.
+16 of 28 steps (57%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 125.
+17 of 28 steps (61%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 124.
+18 of 28 steps (64%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 142.
+19 of 28 steps (68%) done
+[Mon Sep 18 13:24:51 2023]
+Finished job 128.
+20 of 28 steps (71%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:24:51 2023]
+rule merge_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz.csi
+    output: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    jobid: 8
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz.csi, /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz.csi
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:24:54 2023]
+Finished job 8.
+21 of 28 steps (75%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/21-4/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-4/21-4.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/21-4.log
+    jobid: 146
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-4/21-4.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=21-4
+    resources: tmpdir=/tmp
+
+Activating conda environment: demuxlet
+
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/8-4/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-4/8-4.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/8-4.log
+    jobid: 144
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-4/8-4.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=8-4
+    resources: tmpdir=/tmp
+
+Activating conda environment: demuxlet
+
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/21-2/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-2/21-2.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/21-2.log
+    jobid: 145
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-2/21-2.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=21-2
+    resources: tmpdir=/tmp
+
+Activating conda environment: demuxlet
+
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/60-4/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-4/60-4.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/60-4.log
+    jobid: 148
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-4/60-4.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=60-4
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: demuxlet
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/60-1/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-1/60-1.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/60-1.log
+    jobid: 147
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-1/60-1.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=60-1
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: demuxlet
+[Mon Sep 18 13:24:54 2023]
+rule demuxlet:
+    input: /home/cachris/projects/geneva/hypoxia/cellranger_outputs/8-3/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-3/8-3.best
+    log: /home/cachris/projects/geneva/hypoxia/logs/demuxlet/8-3.log
+    jobid: 7
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-3/8-3.best; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    wildcards: sc_samples=8-3
+    resources: tmpdir=/tmp
+
+Activating conda environment: demuxlet
+[Mon Sep 18 14:28:41 2023]
+Finished job 145.
+22 of 28 steps (79%) done
+[Mon Sep 18 14:41:03 2023]
+Finished job 7.
+23 of 28 steps (82%) done
+[Mon Sep 18 14:45:27 2023]
+Finished job 144.
+24 of 28 steps (86%) done
+[Mon Sep 18 14:52:19 2023]
+Finished job 147.
+25 of 28 steps (89%) done
+[Mon Sep 18 14:54:43 2023]
+Finished job 146.
+26 of 28 steps (93%) done
+[Mon Sep 18 15:17:00 2023]
+Finished job 148.
+27 of 28 steps (96%) done
+Select jobs to execute...
+
+[Mon Sep 18 15:17:00 2023]
+localrule all:
+    input: /home/cachris/projects/geneva/hypoxia/merged_vcf.vcf.gz, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-2_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-1_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-3/8-3.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-4/8-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-2/21-2.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-4/21-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-1/60-1.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-4/60-4.best
+    jobid: 0
+    reason: Input files updated by another job: /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-2/21-2.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-1/60-1.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-4/8-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/60-4/60-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/8-3/8-3.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out2/21-4/21-4.best
+    resources: tmpdir=/tmp
+
+[Mon Sep 18 15:17:00 2023]
+Finished job 0.
+28 of 28 steps (100%) done
+Complete log: .snakemake/log/2023-09-18T132448.646239.snakemake.log

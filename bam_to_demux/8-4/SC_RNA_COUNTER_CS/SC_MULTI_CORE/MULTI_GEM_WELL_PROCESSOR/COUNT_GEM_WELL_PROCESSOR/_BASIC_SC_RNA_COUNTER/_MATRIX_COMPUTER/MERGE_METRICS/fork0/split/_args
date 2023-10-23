@@ -1,9 +1,0 @@
-{
-    "summaries": [
-        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-ue62ae1ebd9/files/summary.json",
-        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/join-ue62ae1f50e/files/summary.json",
-        null,
-        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/join-ue62ae1f539/files/summary.json",
-        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/COLLATE_METRICS/fork0/chnk0-ue62ae22451/files/summary.json"
-    ]
-}

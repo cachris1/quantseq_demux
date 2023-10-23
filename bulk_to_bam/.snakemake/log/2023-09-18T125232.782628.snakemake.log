@@ -1,0 +1,284 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+all              1
+demuxlet         6
+merge_vcf        1
+vcf             16
+total           24
+
+Select jobs to execute...
+
+[Mon Sep 18 12:52:34 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/U87/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/U87.log
+    jobid: 112
+    reason: Forced execution
+    wildcards: sample=U87
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/Hep3b/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/Hep3b.log
+    jobid: 94
+    reason: Forced execution
+    wildcards: sample=Hep3b
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/SJSA1/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/SJSA1.log
+    jobid: 45
+    reason: Forced execution
+    wildcards: sample=SJSA1
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/SH4/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/SH4.log
+    jobid: 15
+    reason: Forced execution
+    wildcards: sample=SH4
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/BxPC3/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/BxPC3.log
+    jobid: 27
+    reason: Code has changed since last execution
+    wildcards: sample=BxPC3
+    resources: tmpdir=/tmp
+
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/Caki1/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/Caki1.log
+    jobid: 106
+    reason: Forced execution
+    wildcards: sample=Caki1
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/HCC1806/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/HCC1806.log
+    jobid: 62
+    reason: Forced execution
+    wildcards: sample=HCC1806
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/MDA231/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/MDA231.log
+    jobid: 56
+    reason: Forced execution
+    wildcards: sample=MDA231
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/LNCaP/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/LNCaP.log
+    jobid: 74
+    reason: Forced execution
+    wildcards: sample=LNCaP
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/SW620/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/SW620.log
+    jobid: 39
+    reason: Forced execution
+    wildcards: sample=SW620
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/A375/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/A375.log
+    jobid: 9
+    reason: Forced execution
+    wildcards: sample=A375
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+
+[Mon Sep 18 12:52:35 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/143B/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/143B.log
+    jobid: 51
+    reason: Forced execution
+    wildcards: sample=143B
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:56:45 2023]
+Finished job 9.
+1 of 24 steps (4%) done
+Select jobs to execute...
+
+[Mon Sep 18 12:56:45 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/H358/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/H358.log
+    jobid: 84
+    reason: Updated input files: /home/cachris/projects/geneva/hypoxia/dedup_bams/H358/Aligned.sortedByCoord.out.bam
+    wildcards: sample=H358
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:57:21 2023]
+Finished job 84.
+2 of 24 steps (8%) done
+Select jobs to execute...
+
+[Mon Sep 18 12:57:21 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/Panc1/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/Panc1.log
+    jobid: 21
+    reason: Forced execution
+    wildcards: sample=Panc1
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:57:48 2023]
+Finished job 45.
+3 of 24 steps (12%) done
+Select jobs to execute...
+
+[Mon Sep 18 12:57:48 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/HepG2/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/HepG2.log
+    jobid: 88
+    reason: Forced execution
+    wildcards: sample=HepG2
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:58:41 2023]
+Finished job 27.
+4 of 24 steps (17%) done
+Select jobs to execute...
+
+[Mon Sep 18 12:58:41 2023]
+rule vcf:
+    input: /home/cachris/projects/geneva/hypoxia/dedup_bams/PC3/Aligned.sortedByCoord.out.bam
+    output: /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz
+    log: /home/cachris/projects/geneva/hypoxia/logs/vcf/PC3.log
+    jobid: 68
+    reason: Forced execution
+    wildcards: sample=PC3
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 12:59:23 2023]
+Finished job 51.
+5 of 24 steps (21%) done
+[Mon Sep 18 13:00:11 2023]
+Finished job 15.
+6 of 24 steps (25%) done
+[Mon Sep 18 13:01:10 2023]
+Finished job 112.
+7 of 24 steps (29%) done
+[Mon Sep 18 13:01:27 2023]
+Finished job 56.
+8 of 24 steps (33%) done
+[Mon Sep 18 13:01:36 2023]
+Finished job 62.
+9 of 24 steps (38%) done
+[Mon Sep 18 13:02:19 2023]
+Finished job 74.
+10 of 24 steps (42%) done
+[Mon Sep 18 13:02:37 2023]
+Finished job 106.
+11 of 24 steps (46%) done
+[Mon Sep 18 13:03:50 2023]
+Finished job 88.
+12 of 24 steps (50%) done
+[Mon Sep 18 13:04:06 2023]
+Finished job 94.
+13 of 24 steps (54%) done
+[Mon Sep 18 13:13:32 2023]
+Finished job 68.
+14 of 24 steps (58%) done
+[Mon Sep 18 13:19:13 2023]
+Finished job 39.
+15 of 24 steps (62%) done
+[Mon Sep 18 13:22:14 2023]
+Finished job 21.
+16 of 24 steps (67%) done
+Select jobs to execute...
+
+[Mon Sep 18 13:22:14 2023]
+rule merge_vcf:
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    jobid: 8
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz; Input files updated by another job: /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz
+    resources: tmpdir=/tmp
+
+Activating conda environment: bcftools
+[Mon Sep 18 13:22:14 2023]
+Error in rule merge_vcf:
+    jobid: 8
+    input: /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz, /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz
+    output: /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz
+    conda-env: bcftools
+    shell:
+        
+        bcftools merge         -o /home/cachris/projects/geneva/hypoxia/merged_vcf2.vcf.gz         -0 	    -Oz         --threads 1         /home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/BxPC3.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/HCT15.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/H441.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/H358.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/786O.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz /home/cachris/projects/geneva/hypoxia/vcfs2/LN229.vcf.gz 
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2023-09-18T125232.782628.snakemake.log

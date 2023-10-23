@@ -1,0 +1,3 @@
+
+        samtools index -@ 1 /home/cachris/geneva/hypoxia/star/H441/Aligned.sortedByCoord.out.bam         && mkdir /home/cachris/geneva/hypoxia/dedup_bams/H441/
+        

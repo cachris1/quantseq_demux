@@ -1,8 +1,0 @@
-@include "rna/_sc_rna_analyzer_stages.mro"
-
-call COMBINE_CLUSTERING(
-    kmeans_h5      = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_KMEANS/fork0/join-u7139e3b28e/files/kmeans_h5.h5",
-    kmeans_csv     = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_KMEANS/fork0/join-u7139e3b28e/files/kmeans_csv",
-    graphclust_h5  = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-u7139e3b28e/files/clusters_h5.h5",
-    graphclust_csv = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-u7139e3b28e/files/clusters_csv",
-)

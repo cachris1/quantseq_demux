@@ -1,3 +1,3 @@
 
-        samtools index -@ 7 /home/cachris/geneva/hypoxia/star/32947_c7/Aligned.sortedByCoord.out.bam
+        samtools index -@ 1 /home/cachris/geneva/hypoxia/star/32947_c7/Aligned.sortedByCoord.out.bam         && mkdir /home/cachris/geneva/hypoxia/dedup_bams/32947_c7/
         

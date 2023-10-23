@@ -1,0 +1,3 @@
+
+        bcftools index /home/cachris/geneva/hypoxia/vcfs/13454.vcf.gz 
+        

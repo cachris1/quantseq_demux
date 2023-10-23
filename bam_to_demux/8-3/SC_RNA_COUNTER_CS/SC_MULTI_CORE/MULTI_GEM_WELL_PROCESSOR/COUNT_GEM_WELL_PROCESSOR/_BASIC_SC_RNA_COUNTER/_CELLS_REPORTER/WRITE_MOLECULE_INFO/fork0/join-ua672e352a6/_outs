@@ -1,8 +1,0 @@
-{
-  "multi_mol_info": null,
-  "single_mol_info": {
-    "h5_file": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/WRITE_MOLECULE_INFO/fork0/join-ua672e352a6/files/molecule_info_non_multiplexed.h5",
-    "sample": "non_multiplexed",
-    "summary": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/WRITE_MOLECULE_INFO/fork0/join-ua672e352a6/files/non_multiplexed_summary.json"
-  }
-}

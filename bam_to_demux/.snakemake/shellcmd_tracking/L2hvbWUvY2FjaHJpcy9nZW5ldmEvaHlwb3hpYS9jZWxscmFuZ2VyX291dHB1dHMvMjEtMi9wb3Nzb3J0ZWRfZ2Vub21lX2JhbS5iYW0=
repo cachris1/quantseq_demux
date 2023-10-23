@@ -1,3 +1,0 @@
-
-        cellranger count         --id=21-2         --fastqs=/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA        --transcriptome=/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/         --sample=21-2         --localcores=20 > /home/cachris/geneva/hypoxia/logs/cellranger/21-2.log 2>&1         && mv 21-2/outs/* /home/cachris/geneva/hypoxia/cellranger_outputs/21-2/ 
-        

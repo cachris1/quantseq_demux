@@ -1,0 +1,3 @@
+NameError in file /home/cachris/geneva/lyria/bulk_to_bam/Snakefile, line 250:
+name 'vcf_samples' is not defined
+  File "/home/cachris/geneva/lyria/bulk_to_bam/Snakefile", line 250, in <module>

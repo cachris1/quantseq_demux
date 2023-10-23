@@ -1,3 +1,0 @@
-
-        bcftools mpileup         -d 115         -C 50         -Ou -f /home/genomes/hg38/star_hg38/Homo_sapiens.GRCh38.dna.primary_assembly.fa /home/cachris/geneva/hypoxia/dedup_bams/Capan2/Aligned.sortedByCoord.out.bam |         bcftools call         -Ou -mv - |         bcftools filter         -e '%QUAL<20 || DP>250 || MAF<0.2'         -o /home/cachris/geneva/hypoxia/vcfs/Capan2.vcf.gz -O z -
-        

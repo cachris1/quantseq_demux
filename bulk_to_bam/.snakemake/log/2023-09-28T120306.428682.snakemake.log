@@ -1,0 +1,10 @@
+Building DAG of jobs...
+MissingInputException in rule all in file /home/cachris/projects/geneva/lyria/bulk_to_bam/Snakefile, line 16:
+Missing input files for rule all:
+    affected files:
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/8-3/.best
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/21-2/.best
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/60-1/.best
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/60-4/.best
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/21-4/.best
+        /home/cachris/projects/geneva/hypoxia/demuxlet_out_no_H358/8-4/.best

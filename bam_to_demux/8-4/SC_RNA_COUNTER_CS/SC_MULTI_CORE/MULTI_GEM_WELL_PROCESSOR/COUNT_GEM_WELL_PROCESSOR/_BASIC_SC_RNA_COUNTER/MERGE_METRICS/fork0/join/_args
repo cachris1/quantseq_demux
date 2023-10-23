@@ -1,9 +1,0 @@
-{
-    "__mem_gb": 1,
-    "__threads": 1,
-    "__vmem_gb": 4,
-    "summaries": [
-        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUMMARIZE_BASIC_REPORTS/fork0/join-ue62ae235ce/files/summary.json",
-        null
-    ]
-}

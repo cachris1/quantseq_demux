@@ -1,7 +1,0 @@
-{
-    "feature_reference": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-u9625e299fd/files/feature_reference.csv",
-    "metrics_summary_csv": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-u9625e299fd/files/metrics_summary_csv.csv",
-    "metrics_summary_json": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-u9625e299fd/files/metrics_summary_json.json",
-    "web_summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-u9625e299fd/files/web_summary.html",
-    "ws_data": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-u9625e299fd/files/ws_data.json"
-}

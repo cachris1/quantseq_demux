@@ -1,0 +1,22 @@
+Building DAG of jobs...
+IncompleteFilesException:
+The files below seem to be incomplete. If you are sure that certain files are not incomplete, mark them as complete with
+
+    snakemake --cleanup-metadata <filenames>
+
+To re-generate the files rerun your command with the --rerun-incomplete flag.
+Incomplete files:
+/home/cachris/projects/geneva/hypoxia/vcfs2/A375.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/SH4.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/Panc1.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/SW620.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/SJSA1.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/143B.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/MDA231.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/HCC1806.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/PC3.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/LNCaP.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/HepG2.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/Hep3b.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/Caki1.vcf.gz
+/home/cachris/projects/geneva/hypoxia/vcfs2/U87.vcf.gz

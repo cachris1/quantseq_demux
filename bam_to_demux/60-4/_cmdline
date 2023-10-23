@@ -1,1 +1,0 @@
-cellranger count --id=60-4 --fastqs=/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA --transcriptome=/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/ --sample=60-4 --localcores=20

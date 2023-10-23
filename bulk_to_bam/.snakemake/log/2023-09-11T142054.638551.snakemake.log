@@ -1,0 +1,104 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 15
+Rules claiming more threads will be scaled down.
+Job stats:
+job                    count
+-------------------  -------
+all                        1
+cellranger_combined        5
+total                      6
+
+Select jobs to execute...
+
+[Mon Sep 11 14:20:55 2023]
+rule cellranger_combined:
+    input: /home/cachris/projects/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA
+    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-2_barn/possorted_genome_bam.bam
+    log: /home/cachris/projects/geneva/hypoxia/logs/cellranger_barn/21-2.log
+    jobid: 3
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-2_barn/possorted_genome_bam.bam
+    wildcards: sc_samples=21-2
+    threads: 15
+    resources: tmpdir=/tmp
+
+[Mon Sep 11 22:50:48 2023]
+Finished job 3.
+1 of 6 steps (17%) done
+Select jobs to execute...
+
+[Mon Sep 11 22:50:49 2023]
+rule cellranger_combined:
+    input: /home/cachris/projects/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA
+    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-4_barn/possorted_genome_bam.bam
+    log: /home/cachris/projects/geneva/hypoxia/logs/cellranger_barn/60-4.log
+    jobid: 6
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-4_barn/possorted_genome_bam.bam
+    wildcards: sc_samples=60-4
+    threads: 15
+    resources: tmpdir=/tmp
+
+[Tue Sep 12 10:30:04 2023]
+Finished job 6.
+2 of 6 steps (33%) done
+Select jobs to execute...
+
+[Tue Sep 12 10:30:04 2023]
+rule cellranger_combined:
+    input: /home/cachris/projects/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA
+    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-4_barn/possorted_genome_bam.bam
+    log: /home/cachris/projects/geneva/hypoxia/logs/cellranger_barn/8-4.log
+    jobid: 2
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-4_barn/possorted_genome_bam.bam
+    wildcards: sc_samples=8-4
+    threads: 15
+    resources: tmpdir=/tmp
+
+[Tue Sep 12 17:38:01 2023]
+Finished job 2.
+3 of 6 steps (50%) done
+Select jobs to execute...
+
+[Tue Sep 12 17:38:01 2023]
+rule cellranger_combined:
+    input: /home/cachris/projects/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA
+    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam
+    log: /home/cachris/projects/geneva/hypoxia/logs/cellranger_barn/8-3.log
+    jobid: 1
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam
+    wildcards: sc_samples=8-3
+    threads: 15
+    resources: tmpdir=/tmp
+
+[Wed Sep 13 02:12:51 2023]
+Finished job 1.
+4 of 6 steps (67%) done
+Select jobs to execute...
+
+[Wed Sep 13 02:12:51 2023]
+rule cellranger_combined:
+    input: /home/cachris/projects/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA
+    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-1_barn/possorted_genome_bam.bam
+    log: /home/cachris/projects/geneva/hypoxia/logs/cellranger_barn/60-1.log
+    jobid: 5
+    reason: Missing output files: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-1_barn/possorted_genome_bam.bam
+    wildcards: sc_samples=60-1
+    threads: 15
+    resources: tmpdir=/tmp
+
+[Wed Sep 13 12:48:29 2023]
+Finished job 5.
+5 of 6 steps (83%) done
+Select jobs to execute...
+
+[Wed Sep 13 12:48:29 2023]
+localrule all:
+    input: /home/cachris/projects/geneva/hypoxia/merged_vcf.vcf.gz, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-2_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-1_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/demuxlet_out/8-3/8-3.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out/8-4/8-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out/21-2/21-2.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out/21-4/21-4.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out/60-1/60-1.best, /home/cachris/projects/geneva/hypoxia/demuxlet_out/60-4/60-4.best
+    jobid: 0
+    reason: Input files updated by another job: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/21-2_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-4_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/60-1_barn/possorted_genome_bam.bam, /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam
+    resources: tmpdir=/tmp
+
+[Wed Sep 13 12:48:29 2023]
+Finished job 0.
+6 of 6 steps (100%) done
+Complete log: .snakemake/log/2023-09-11T142054.638551.snakemake.log

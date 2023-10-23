@@ -1,5 +1,0 @@
-{
-    "clustering_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/COMBINE_CLUSTERING/fork0/chnk0-ue62ae23596/files/clustering_h5.h5",
-    "is_antibody_only": false,
-    "matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-ue62ae2331a/files/preprocessed_matrix_h5.h5"
-}

@@ -1,26 +1,23 @@
 # a re-implementation of the quantseqPool analysis.sh 
+configfile: "config.yaml"
+working_dir = config['working_dir']
+data_dir = config['bulk_rna_data_dir']
+star_genome_dir = config['star_genome']
+sample_sheet = config['sample_sheet']
 
+import pandas as pd
+SAMPLES = pd.read_csv(sample_sheet).iloc[:,0]
 
-working_dir = "/home/cachris/geneva/hypoxia/"
-data_dir = "/home/cachris/geneva/hypoxia/data/TSHG12_QSP_ALS_hypoxia_RM_Kevan_GENEVA/TSHG12"
-SAMPLES = ["93E",  "41865",  "50073",  "32947_c7",  "50004",  "5MRLiCTR",  "2GW3iCTR",  "2PFYiCTR",  "6GNGiCTR",  "5JAZiALS",  "2WW0iALS",  "0YJYiALS",  "2NDDiALS",  "0WD8iALS",  "0JCLiALS",  "AG0017",  "50000",  "35658",  "29iALS",  "12240",  "39B",  "3XLKiALS",  "184",  "6769",  "6769_c1",  "3719",  "10739",  "10689",  "13454",  "No4",  "SOD139B_1",  "29iALS_ISO",  "2CLNiALS",  "2DDGiALS",  "ES",  "1B06",  "6GHCiALS",  "SOD139B_2",  "5FFPiALS",  "No3",  "12099",  "5280",  "3231",  "50007",  "OKVBiALS",  "2B09",  "39B_Corr",  "CS5HF7iALS",  "CS2YNLiALS",  "5GR5iALS",  "1RUG",  "12100",  "AH9iALS",  "11813_fibs",  "10739_fibs",  "9292_fibs",  "13454_fibs",  "CS0KHAiALS",  "9711",  "14185",  "ND35663",  "CS0KBHiALS",  "ND09329",  "ND50082",  "BxPC3",  "SH4",  "LNCaP",  "U87",  "786O",  "A375",  "Panc0504",  "Panc1005",  "HCC1806",  "SU8686",  "HCT15",  "HPAC",  "HepG2",  "HPAFII",  "SW1990",  "MDA231",  "PC3",  "SJSA1",  "143B",  "LN229",  "Caki1",  "Panc0203",  "Capan2",  "Panc1",  "Hep3b",  "AGS",  "AsPC1",  "SW620",  "ND08957",  "ND08075"]
-star_genome_dir = "/home/genomes/hg38/star_hg38/"
-sc_samples = ["8-3_S10", "8-4_S11", "21-2_S12", "21-4_S13", 
-                  "60-1_S14", "60-4_S15"]
-
+shell("conda config --add envs_dirs /home/cachris/miniconda3/envs")
 
 rule all:
     input:
-        working_dir + "demux_fastqs/demultipexing_stats.tsv",
-        expand(working_dir + "trimmed_fastqs/{sample}.R1.fastq.gz", sample= SAMPLES),
-        expand(working_dir + "star/{sample}/Log.out", sample = SAMPLES),
-        expand(working_dir + "dedup_bams/{sample}/Aligned.sortedByCoord.out.bam", sample = SAMPLES),
-     #   expand(working_dir + "{sc_sample}", sc_sample = sc_samples)
-        expand( working_dir + "merged_vcf.gz")
+        expand(working_dir + "dedup_bams/{sample}/Aligned.sortedByCoord.out.bam",sample = SAMPLES)
+
 rule demux:
     input:
-        r1 = data_dir + "/combined_R1.fastq.gz",
-        r2 = data_dir + "/combined_R2.fastq.gz",
+        r1 = data_dir + "/TSHG12/combined_R1.fastq.gz",
+        r2 = data_dir + "/TSHG12/combined_R2.fastq.gz",
         samples = data_dir + "sample_sheet.csv",
     output:
         stats = working_dir + "demux_fastqs/demultipexing_stats.tsv",
@@ -43,7 +40,7 @@ rule UMI_extract:
     #    for_all = expand(working_dir + "extracted_fastqs/{sample}.R1.fastq.gz", sample= SAMPLES),
         r1 = working_dir + "extracted_fastqs/{sample}.R1.fastq.gz"
     log:
-        working_dir + "logs/UMI_extract.log"
+        working_dir + "logsUMI_extract/{sample}.log"
     shell:
         """
         umi_tools extract \
@@ -78,15 +75,14 @@ rule cutadapt:
         --discard-trimmed -o /home/cachris/geneva/hypoxia/trimmed_fastqs/SW620.R1.fastq.gz  - 2> {log.err} 1> {log.out}
         """
 
-
 rule star_se:
     input:
-        fq1 = working_dir + "trimmed_fastqs/{sample}.R1.fastq.gz",
+        fq1 = working_dir + "trimmed_fastqs/{sample}.R1.fastq.gz", 
         # path to STAR reference genome index
-        idx="/home/genomes/hg38/star_hg38/",
+        idx="/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/star",
     output:
         # see STAR manual for additional output files
-        # aln = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
+        aln = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
         log = working_dir + "star/{sample}/Log.out",
         log_final = working_dir + "star/{sample}/Log.final.out", 
     params:
@@ -94,6 +90,8 @@ rule star_se:
     log:
         working_dir + "logs/star/{sample}.log",
     threads: 10
+    conda:
+        "quantseq"
     shell:
         """
         STAR \
@@ -116,17 +114,25 @@ rule star_se:
         --outFileNamePrefix {params.out_prefix} > {log}       
         """
 
+
+
 rule index:
     input:
         bam = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
     output:
         bai = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam.bai",
+    params:
+        new_dir = working_dir + "dedup_bams/{sample}/"
     threads:
         1
+    conda:
+        "quantseq"
     shell:
         """
-        samtools index -@ {threads} {input.bam}
+        samtools index -@ {threads} {input.bam} \
+        && mkdir {params.new_dir}
         """
+
 
 rule dedup:
     input:
@@ -139,6 +145,8 @@ rule dedup:
         stats = working_dir + "dedup_bams/{sample}/deduplicated.txt",
     log:
         working_dir + "logs/dedup/{sample}.log",
+    conda:
+        "quantseq"
     shell:
         """
         umi_tools dedup \
@@ -148,82 +156,3 @@ rule dedup:
         --output-stats={params.stats} \
         > {log} 2>&1 
         """
-
-rule vcf:
-    input:
-        bam = working_dir + "dedup_bams/{sample}/Aligned.sortedByCoord.out.bam"
-    output:
-        working_dir + "vcfs/{sample}.vcf.gz"
-    params:
-        depth = 115,
-        mq_adjust = 50,
-        genome = "/home/genomes/hg38/star_hg38/Homo_sapiens.GRCh38.dna.primary_assembly.fa",
-        depth_filter = 250
-    log:
-        working_dir + "logs/vcf/{sample}.log"
-    shell:
-        """
-        bcftools mpileup \
-        -d {params.depth} \
-        -C {params.mq_adjust} \
-        -Ou -f {params.genome} {input.bam} 2> {log} | \
-        bcftools call \
-        -Ou -mv - 2> {log} | \
-        bcftools filter \
-        -e 'QUAL<20 || DP>{params.depth_filter} || MAF<0.2' \
-        -o {output} -Oz - 2> {log}
-        """
-
-rule index_vcf:
-    input:
-        vcf = working_dir + "vcfs/{sample}.vcf.gz"
-    output:
-        working_dir + "indexed_vcfs/{sample}.vcf.gz"
-    shell:
-        """
-        bcftools index \
-        -o {output} \
-        {input} 
-        """
-
-rule merge_vcf:
-    input:
-        expand(working_dir + "indexed_vcfs/{sample}.vcf.gz", sample= SAMPLES)
-    output:
-        working_dir + "merged_vcf.gz"
-    threads:
-        6
-    shell:
-        """
-        bcftools merge \
-        -o {output} \
-        -Oz \
-        --threads {threads} \
-        {input} 
-        """
-
-
-rule cellranger:
-    input:
-        data = "/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA",
-    output:
-        bams = working_dir + "cellranger_outputs/{sc_samples}/possorted_genome_bam.bam"
-    params:
-        index = "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/",
-        ids = "{sc_samples}",
-        outputdir = working_dir + "cellranger_outputs/{sc_samples}"
-    threads:
-        20
-    log:
-        working_dir + "logs/cellranger/{sc_samples}.log"
-    # Call the cellranger command for each sample
-    shell:
-        """
-        cellranger count \
-        --id={params.ids} \
-        --fastqs={input.data}\
-        --transcriptome={params.index} \
-        --sample={params.ids} \
-        --localcores={threads} > {log} 2>&1 \
-        && mv {params.ids}/outs/* {params.outputdir}/ 
-          """

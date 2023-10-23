@@ -1,8 +1,0 @@
-{
-  "filter_switch": {
-    "asm_shared_contig": false,
-    "enclone_multiplet": true,
-    "enclone_shared_contig": false,
-    "enclone_umi": false
-  }
-}

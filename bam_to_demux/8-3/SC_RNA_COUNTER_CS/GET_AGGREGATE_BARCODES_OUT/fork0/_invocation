@@ -1,5 +1,0 @@
-@include "rna/_common_stages.mro"
-
-call GET_AGGREGATE_BARCODES_OUT(
-    antibody_analysis = null,
-)
