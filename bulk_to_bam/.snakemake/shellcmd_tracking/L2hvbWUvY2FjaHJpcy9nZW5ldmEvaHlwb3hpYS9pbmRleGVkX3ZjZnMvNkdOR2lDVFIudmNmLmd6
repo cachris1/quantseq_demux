@@ -1,0 +1,3 @@
+
+        bcftools index         -o /home/cachris/geneva/hypoxia/indexed_vcfs/6GNGiCTR.vcf.gz         /home/cachris/geneva/hypoxia/vcfs/6GNGiCTR.vcf.gz 
+        

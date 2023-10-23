@@ -1,0 +1,5 @@
+{
+    "multi_genome_csv": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_MULTIGENOME_ANALYSIS/fork0/join-ua672e3596b/files/multi_genome_csv",
+    "multi_genome_json": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_MULTIGENOME_ANALYSIS/fork0/join-ua672e3596b/files/multi_genome_json",
+    "multi_genome_summary": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_MULTIGENOME_ANALYSIS/fork0/join-ua672e3596b/files/multi_genome_summary.json"
+}

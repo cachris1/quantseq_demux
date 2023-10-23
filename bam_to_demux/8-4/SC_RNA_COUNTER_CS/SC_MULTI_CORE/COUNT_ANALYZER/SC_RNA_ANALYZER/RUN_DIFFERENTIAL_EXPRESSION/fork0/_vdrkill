@@ -1,0 +1,39 @@
+{
+    "timestamp": "2023-08-20T08:50:26.305584049-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk00-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk01-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk02-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk03-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk04-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk05-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk06-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk07-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk08-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk09-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk10-ue62ae23596/files/diffexp.bincode.lz4",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/join-ue62ae23596/files/diffexp_csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/join-ue62ae23596/files/diffexp_h5.h5"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-20T08:47:34.710944024-07:00",
+            "DeltaBytes": 44240375
+        },
+        {
+            "Timestamp": "2023-08-20T08:50:22.583283683-07:00",
+            "DeltaBytes": 228604850
+        },
+        {
+            "Timestamp": "2023-08-20T08:50:24.437184572-07:00",
+            "DeltaBytes": -44157219
+        },
+        {
+            "Timestamp": "2023-08-20T08:50:26.305584049-07:00",
+            "DeltaBytes": -228584327
+        }
+    ],
+    "count": 33,
+    "size": 272741546
+}

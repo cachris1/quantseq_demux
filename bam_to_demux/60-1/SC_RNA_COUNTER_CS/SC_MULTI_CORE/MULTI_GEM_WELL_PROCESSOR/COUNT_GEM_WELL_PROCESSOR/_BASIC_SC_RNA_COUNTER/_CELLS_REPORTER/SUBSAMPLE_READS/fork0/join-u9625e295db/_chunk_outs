@@ -1,0 +1,202 @@
+[
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk00-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk00-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk00-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk01-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk01-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk01-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk02-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk02-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk02-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk03-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk03-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk03-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk04-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk04-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk04-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk05-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk05-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk05-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk06-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk06-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk06-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk07-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk07-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk07-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk08-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk08-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk08-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk09-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk09-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk09-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk10-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk10-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk10-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk11-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk11-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk11-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk12-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk12-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk12-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk13-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk13-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk13-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk14-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk14-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk14-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk15-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk15-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk15-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk16-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk16-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk16-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk17-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk17-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk17-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk18-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk18-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk18-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk19-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk19-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk19-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk20-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk20-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk20-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk21-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk21-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk21-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk22-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk22-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk22-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk23-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk23-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk23-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk24-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk24-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk24-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk25-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk25-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk25-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk26-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk26-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk26-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk27-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk27-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk27-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk28-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk28-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk28-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk29-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk29-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk29-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk30-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk30-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk30-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk31-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk31-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk31-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk32-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk32-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk32-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk33-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk33-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk33-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk34-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk34-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk34-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk35-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk35-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk35-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk36-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk36-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk36-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk37-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk37-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk37-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk38-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk38-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk38-u9625e295e8/files/summary.json"
+    },
+    {
+        "merged_metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk39-u9625e295e8/files/merged_metrics.pickle",
+        "metrics": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk39-u9625e295e8/files/metrics.pickle",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk39-u9625e295e8/files/summary.json"
+    }
+]

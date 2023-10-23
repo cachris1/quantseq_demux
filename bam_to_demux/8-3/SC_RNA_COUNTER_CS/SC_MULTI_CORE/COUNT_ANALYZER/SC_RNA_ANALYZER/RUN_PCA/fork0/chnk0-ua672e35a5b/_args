@@ -1,0 +1,11 @@
+{
+    "__mem_gb": 2,
+    "__threads": 4,
+    "__vmem_gb": 5,
+    "feature_type": "Gene",
+    "is_antibody_only": false,
+    "matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-ua672e35928/files/preprocessed_matrix_h5.h5",
+    "num_pca_genes": null,
+    "num_principal_comps": null,
+    "pca_map": null
+}

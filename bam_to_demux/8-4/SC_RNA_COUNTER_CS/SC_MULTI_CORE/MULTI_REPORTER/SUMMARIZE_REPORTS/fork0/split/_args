@@ -1,0 +1,28 @@
+{
+    "analysis": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-ue62ae23640/files/analysis",
+    "antibody_histograms": null,
+    "antibody_treemap": null,
+    "antigen_histograms": null,
+    "antigen_treemap": null,
+    "barcode_summary_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/WRITE_BARCODE_SUMMARY/fork0/chnk0-ue62ae22451/files/barcode_summary.h5",
+    "barcode_whitelist": "3M-february-2018",
+    "feature_reference": null,
+    "filtered_barcodes": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-ue62ae2249d/files/filtered_barcodes.csv",
+    "filtered_gene_bc_matrices_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-ue62ae2249d/files/filtered_matrices_h5.h5",
+    "include_introns": true,
+    "per_feature_metrics_csv": null,
+    "reference_path": "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
+    "sample_desc": "",
+    "sample_id": "8-4",
+    "summaries": [
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/MERGE_METRICS/fork0/chnk0-ue62ae2368c/files/summary.json",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-ue62ae23640/files/summary.json",
+        null,
+        null,
+        null,
+        null
+    ],
+    "target_panel_summary": null,
+    "target_set_name": null,
+    "throughput": null
+}

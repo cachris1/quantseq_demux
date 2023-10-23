@@ -1,0 +1,11 @@
+{
+    "annotation_files": null,
+    "bam_header": null,
+    "barcode_summary": null,
+    "bc_umi_info": null,
+    "counts_bc_order": null,
+    "per_barcode_metrics": null,
+    "pos_sorted": null,
+    "probe_barcode_counts": null,
+    "summary": null
+}

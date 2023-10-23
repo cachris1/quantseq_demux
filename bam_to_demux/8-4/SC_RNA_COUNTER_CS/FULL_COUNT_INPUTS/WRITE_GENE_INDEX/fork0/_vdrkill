@@ -1,0 +1,19 @@
+{
+    "timestamp": "2023-08-20T03:32:57.953191239-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/FULL_COUNT_INPUTS/WRITE_GENE_INDEX/fork0/chnk0-ue62ae1ebc3/files/gene_index.json"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-20T03:32:35.481796787-07:00",
+            "DeltaBytes": 158740763
+        },
+        {
+            "Timestamp": "2023-08-20T03:32:57.953191239-07:00",
+            "DeltaBytes": -158736139
+        }
+    ],
+    "count": 1,
+    "size": 158736139
+}

@@ -1,0 +1,820 @@
+[
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AACCTGATCAGGTGAT",
+                "valid": false
+            },
+            "start": null
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AAGCGTGCATCCTTGC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AACCTGATCAGGTGAT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AATGTGGTCTAGGCCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AAGCGTGCATCCTTGC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ACCAAACCAGCCTATG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AATGTGGTCTAGGCCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ACGCACCCAGCGCCAG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ACCAAACCAGCCTATG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ACTGTGAGTCGCGTTT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ACGCACCCAGCGCCAG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AGATAATTCATACGGT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ACTGTGAGTCGCGTTT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AGGACTTCCGATCTAG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AGATAATTCATACGGT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "AGTCAACTTCGGTCCC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AGGACTTCCGATCTAG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ATACTTCTCTATACTT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "AGTCAACTTCGGTCCC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ATCGATGTGTCCACGG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ATACTTCTCTATACTT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ATGGGTTGCCACATTC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ATCGATGTGTCCACGG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "ATTGAGTCGAATGCTT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ATGGGTTGCCACATTC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CAAGACTGTCACTTAA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "ATTGAGTCGAATGCTT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CACGTGGTCATCTGCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CAAGACTGTCACTTAA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CAGGGCTGTATTGAGT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CACGTGGTCATCTGCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CATCGCTTTTAAAGTC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CAGGGCTGTATTGAGT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CCAATTTCATCATCTC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CATCGCTTTTAAAGTC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CCCGGAAAGACGCGGT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CCAATTTCATCATCTC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CCTAAGAACTAGCCGC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CCCGGAAAGACGCGGT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CCTGTTGTCTCCTGTT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CCTAAGAACTAGCCGC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CGCCATTGCTGTTATA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CCTGTTGTCTCCTGTT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CGTTGGGATCACAGGC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CGCCATTGCTGTTATA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CTATAGGCCACCCTCT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CGTTGGGATCACAGGC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CTCCCTCATGAGACTA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CTATAGGCCACCCTCT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CTGACATTCAACAATC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CTCCCTCATGAGACTA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CTGTGAAGGCTGCACA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CTGACATTCAACAATC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "CTTTCGGTTGCATACT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CTGTGAAGGCTGCACA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GACAGCCCGAGAAAGT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "CTTTCGGTTGCATACT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GAGAAATCATGGCCAG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GACAGCCCGAGAAAGT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GATCAGTTCCGCTTTT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GAGAAATCATGGCCAG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GCACATACACACTCAC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GATCAGTTCCGCTTTT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GCCATGGCTGGGGCCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GCACATACACACTCAC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GCTATAAAGCTAATCC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GCCATGGCTGGGGCCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GGAGCATGTAACCAGG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GCTATAAAGCTAATCC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GGGAGTTTCATCACAG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GGAGCATGTAACCAGG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GGTAGGTCACACTTGG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GGGAGTTTCATCACAG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GTAACACAATACAAAA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GGTAGGTCACACTTGG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GTCATCACTATACTAC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GTAACACAATACAAAA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GTGCAGCTCGCTGCGG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GTCATCACTATACTAC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "GTTCATTCCATCACCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GTGCAGCTCGCTGCGG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "NCTATACCACTGCACG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "GTTCATTCCATCACCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TAATCCAAGGAGAGGC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "NCTATACCACTGCACG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TACGGTACCGACAGCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TAATCCAAGGAGAGGC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TATCCACAGGGTTGCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TACGGTACCGACAGCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCAATTCTGGTTCCCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TATCCACAGGGTTGCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCATCCCTCTCCAATT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCAATTCTGGTTCCCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCCCCACTCTGGAGAC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCATCCCTCTCCAATT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCCTTTACAATCTCCT",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCCCCACTCTGGAGAC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCTACCCCTCTCACCC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCCTTTACAATCTCCT",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TCTTCTGGGCATGATG",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCTACCCCTCTCACCC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TGATGTAGCATGCAGC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TCTTCTGGGCATGATG",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TGGAACTCAATTTATC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TGATGTAGCATGCAGC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TGTAACTCAATTTCTC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TGGAACTCAATTTATC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TNGTGGAAGGTTCTAC",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TGTAACTCAATTTCTC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TTCAATTCACGCTGCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TNGTGGAAGGTTCTAC",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TTCGCTTCCTTTTCCA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TTCAATTCACGCTGCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": {
+                "gem_group": 1,
+                "sequence": "TTGCTGCCAGACCTAA",
+                "valid": false
+            },
+            "start": {
+                "gem_group": 1,
+                "sequence": "TTCGCTTCCTTTTCCA",
+                "valid": false
+            }
+        }
+    },
+    {
+        "range": {
+            "end": null,
+            "start": {
+                "gem_group": 1,
+                "sequence": "TTGCTGCCAGACCTAA",
+                "valid": false
+            }
+        }
+    }
+]

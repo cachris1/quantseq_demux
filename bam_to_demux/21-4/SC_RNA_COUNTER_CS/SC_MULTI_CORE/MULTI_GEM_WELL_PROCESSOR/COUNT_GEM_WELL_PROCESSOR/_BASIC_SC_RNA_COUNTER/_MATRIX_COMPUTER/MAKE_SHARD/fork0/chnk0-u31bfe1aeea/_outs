@@ -1,0 +1,11 @@
+{
+  "bc_correct_summary": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/bc_correct_summary.bcm.bincode",
+  "chunk_hist": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/chunk_hist.msh.bincode",
+  "chunk_summary": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/chunk_summary.msm.bincode",
+  "feature_counts": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/feature_counts.fbc.bincode",
+  "invalid_shard": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/invalid.shard",
+  "read_prefix_counts": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/read_prefix_counts.rpc",
+  "total_read_pairs": 443868419,
+  "umi_counts": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/umi_counts.umi",
+  "valid_shard": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-u31bfe1aeea/files/valid.shard"
+}

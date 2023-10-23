@@ -1,0 +1,145 @@
+{
+    "name": "ID.8-4.SC_RNA_COUNTER_CS.SC_MULTI_CORE.MULTI_REPORTER.CLOUPE_PREPROCESS.fork0",
+    "type": "local",
+    "cwd": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/CLOUPE_PREPROCESS/fork0/join-ue62ae236b6/files",
+    "python": {
+        "binpath": "/home/cachris/geneva/cellranger-7.1.0/external/anaconda/bin/python3",
+        "version": "3.9.7 (default, Sep 16 2021, 13:09:58) \n[GCC 7.5.0]"
+    },
+    "rusage": {
+        "self": {
+            "ru_maxrss": 28524,
+            "ru_ixrss": 0,
+            "ru_idrss": 0,
+            "ru_minflt": 523,
+            "ru_majflt": 0,
+            "ru_nswap": 0,
+            "ru_utime": 0.01061,
+            "ru_stime": 0,
+            "ru_inblock": 9,
+            "ru_oublock": 4,
+            "ru_msgsnd": 0,
+            "ru_msgrcv": 0,
+            "ru_nsignals": 0,
+            "ru_nivcsw": 0
+        },
+        "children": {
+            "ru_maxrss": 87756,
+            "ru_ixrss": 0,
+            "ru_idrss": 0,
+            "ru_minflt": 23124,
+            "ru_majflt": 0,
+            "ru_nswap": 0,
+            "ru_utime": 0.389696,
+            "ru_stime": 0.427411,
+            "ru_inblock": 722213,
+            "ru_oublock": 700118,
+            "ru_msgsnd": 0,
+            "ru_msgrcv": 0,
+            "ru_nsignals": 0,
+            "ru_nivcsw": 86
+        }
+    },
+    "used_bytes": {
+        "rss": 93065216,
+        "shared": 36651008,
+        "vmem": 1432399872,
+        "text": 3313664,
+        "stack": 145911808,
+        "proc_count": 1
+    },
+    "io": {
+        "total": {
+            "read": {
+                "sysc": 1646,
+                "bytes": 33163596
+            },
+            "write": {
+                "sysc": 50,
+                "bytes": 0
+            }
+        },
+        "max": {
+            "read": {
+                "sysc": 3266.874306674403,
+                "bytes": 66061768.10325001
+            },
+            "write": {
+                "sysc": 99.5998264230001,
+                "bytes": 0
+            }
+        },
+        "dev": {
+            "read": {
+                "sysc": 148.7286894685776,
+                "bytes": 5744689.229401666
+            },
+            "write": {
+                "sysc": 8.661137395054558,
+                "bytes": 0
+            }
+        }
+    },
+    "wallclock": {
+        "start": "2023-08-20T08:54:31.70646964-07:00",
+        "end": "2023-08-20T08:54:32.527005816-07:00",
+        "duration_seconds": 0.8205362
+    },
+    "profile_mode": "disable",
+    "stackvars_flag": "disable",
+    "monitor_flag": "disable",
+    "invocation": {
+        "call": "SC_RNA_COUNTER_CS",
+        "args": {
+            "aligner": null,
+            "check_library_compatibility": true,
+            "chemistry": "auto",
+            "emptydrops_minimum_umis": null,
+            "feature_reference": null,
+            "filter_probes": null,
+            "force_cells": null,
+            "include_introns": true,
+            "no_bam": false,
+            "no_secondary_analysis": false,
+            "no_target_umi_filter": false,
+            "r1_length": null,
+            "r2_length": null,
+            "recovered_cells": null,
+            "reference_path": "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
+            "sample_def": [
+                {
+                    "fastq_id": null,
+                    "fastq_mode": "ILMN_BCL2FASTQ",
+                    "gem_group": null,
+                    "lanes": null,
+                    "library_type": "Gene Expression",
+                    "read_path": "/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA",
+                    "sample_indices": [
+                        "any"
+                    ],
+                    "sample_names": [
+                        "8-4"
+                    ],
+                    "subsample_rate": null,
+                    "target_set": null,
+                    "target_set_name": null
+                }
+            ],
+            "sample_desc": "",
+            "sample_id": "8-4",
+            "targeting_method": null,
+            "trim_polya_min_score": 20,
+            "trim_tso_min_score": 20
+        },
+        "mro_file": "rna/sc_rna_counter_cs.mro"
+    },
+    "version": {
+        "martian": "v4.0.10",
+        "pipelines": "cellranger-7.1.0"
+    },
+    "host": "norgay",
+    "pid": 754323,
+    "threads": 1,
+    "memGB": 1,
+    "vmemGB": 4
+}

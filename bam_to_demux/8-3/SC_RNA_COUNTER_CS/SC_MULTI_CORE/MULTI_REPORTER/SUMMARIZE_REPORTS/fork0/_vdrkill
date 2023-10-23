@@ -1,0 +1,19 @@
+{
+    "timestamp": "2023-08-21T05:46:50.483006558-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ua672e35c8b/files/ws_data.json"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-21T05:46:03.263127769-07:00",
+            "DeltaBytes": 19379997
+        },
+        {
+            "Timestamp": "2023-08-21T05:46:50.483006558-07:00",
+            "DeltaBytes": -15166514
+        }
+    ],
+    "count": 1,
+    "size": 15166514
+}

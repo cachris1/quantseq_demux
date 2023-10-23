@@ -1,0 +1,12 @@
+{
+    "antibody_analyzer": null,
+    "antigen_analyzer": null,
+    "common_analyzer": {
+        "analysis": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-u31bfe1eb1b/files/analysis",
+        "analysis_csv": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-u31bfe1eb1b/files/analysis_csv",
+        "cloupe_matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-u31bfe1e271/files/cloupe_matrix_h5.h5",
+        "summary": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-u31bfe1eb1b/files/summary.json"
+    },
+    "crispr_analyzer": null,
+    "targeted_analyzer": null
+}

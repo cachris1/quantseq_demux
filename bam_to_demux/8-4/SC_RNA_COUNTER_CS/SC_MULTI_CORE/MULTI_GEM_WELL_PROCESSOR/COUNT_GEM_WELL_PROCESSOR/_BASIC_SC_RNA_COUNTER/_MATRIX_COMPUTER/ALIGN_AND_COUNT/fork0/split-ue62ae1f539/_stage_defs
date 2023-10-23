@@ -1,0 +1,1027 @@
+{
+  "chunks": [
+    {
+      "__mem_gb": 17,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGCCAGCTTGTTTGCC",
+          "valid": false
+        },
+        "start": null
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CACTGGTGATCTGCCC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGCCAGCTTGTTTGCC",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CGGACAAGGAAGTTGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CACTGGTGATCTGCCC",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GACCTTCGACTAAAAA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CGGACAAGGAAGTTGA",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGTCTGGCTCCGGGTG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GACCTTCGACTAAAAA",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCAATCTGTCCAGAGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGTCTGGCTCCGGGTG",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 16,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGCTGAGTCCACTTAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCAATCTGTCCAGAGA",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AACACACCAAGAGATT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGCTGAGTCCACTTAC",
+          "valid": false
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AATCGTGGTGGCTTAT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AACACACCAAGAGATT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ACAGGGACAACTGAAA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AATCGTGGTGGCTTAT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ACGTTCCGTTGTAAAG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ACAGGGACAACTGAAA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGACACTGTGGTTCTA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ACGTTCCGTTGTAAAG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGCTACAGTAGGCTCC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGACACTGTGGTTCTA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGGGTGACAAACTCGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGCTACAGTAGGCTCC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGTTCCCCACTCAGAT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGGGTGACAAACTCGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATCGGCGAGGCTCCCA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGTTCCCCACTCAGAT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATGGAGGTCAGCTTGA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATCGGCGAGGCTCCCA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATTCCTAGTCTACAAC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATGGAGGTCAGCTTGA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CAAGACTAGCCGATTT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATTCCTAGTCTACAAC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CACGAATGTTGGAGGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CAAGACTAGCCGATTT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CAGCCAGAGGTCACAG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CACGAATGTTGGAGGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CATGGATCAACACGAG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CAGCCAGAGGTCACAG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCACTTGCACCCAACG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CATGGATCAACACGAG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCGGGTAAGTACGTCT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCACTTGCACCCAACG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCTCCTCGTCGTGGAA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCGGGTAAGTACGTCT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CGAGTTAGTGCCTGCA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCTCCTCGTCGTGGAA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CGGGACTCAACGACTT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CGAGTTAGTGCCTGCA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTAAGTGTCGGTCGGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CGGGACTCAACGACTT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTCCTCCCATCGGAGA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTAAGTGTCGGTCGGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTGCGAGCATCACAGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTCCTCCCATCGGAGA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 19,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTTCCTTTCCGTATAG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTGCGAGCATCACAGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GAAGGGTAGACTACCT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTTCCTTTCCGTATAG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GAGATGGCAGACCTGC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GAAGGGTAGACTACCT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GATAGCTGTGCGAGTA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GAGATGGCAGACCTGC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GATTGGTAGTTGCTGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GATAGCTGTGCGAGTA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GCATTAGCACTCACTC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GATTGGTAGTTGCTGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GCGTGCATCCGGCAAC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GCATTAGCACTCACTC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGACGTCCAAATGCTC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GCGTGCATCCGGCAAC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGGACCTGTACCCACG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGACGTCCAAATGCTC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGTGTCGCACGCAGTC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGGACCTGTACCCACG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTAGGAGCACCTGCAG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGTGTCGCACGCAGTC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTCCTCATCAACTGGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTAGGAGCACCTGCAG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTGCTTCAGCCACCGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTCCTCATCAACTGGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 19,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTTATGGAGTGCTCGC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTGCTTCAGCCACCGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TACCCACTCTCACCCA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTTATGGAGTGCTCGC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TAGAGTCTCAAGGACG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TACCCACTCTCACCCA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCACGCTTCTGGGCGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TAGAGTCTCAAGGACG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCATGAGTCACTACTT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCACGCTTCTGGGCGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCCGAAAGTGTTCAGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCATGAGTCACTACTT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCGGGACCACGCTATA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCCGAAAGTGTTCAGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGAACGTGTAGAGACC",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCGGGACCACGCTATA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGATTCTAGTGCCTCG",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGAACGTGTAGAGACC",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGCTTGCAGGATGCGT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGATTCTAGTGCCTCG",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 20,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGGTAGTTCATGCCAA",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGCTTGCAGGATGCGT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTATTGCAGGCTCTAT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGGTAGTTCATGCCAA",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTGCCTGCATCGCTCT",
+          "valid": true
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTATTGCAGGCTCTAT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    },
+    {
+      "__mem_gb": 21,
+      "__threads": 4,
+      "__vmem_gb": null,
+      "range": {
+        "end": null,
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTGCCTGCATCGCTCT",
+          "valid": true
+        }
+      },
+      "read_ann_subsample_rate": 0.058150514960289
+    }
+  ],
+  "join": {
+    "__mem_gb": 2,
+    "__threads": null,
+    "__vmem_gb": null
+  }
+}

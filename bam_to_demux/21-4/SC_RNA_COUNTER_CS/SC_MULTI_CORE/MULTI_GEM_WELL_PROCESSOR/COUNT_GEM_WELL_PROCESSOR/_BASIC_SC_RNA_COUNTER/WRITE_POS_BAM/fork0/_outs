@@ -1,0 +1,9 @@
+{
+    "multi_pos_sorted_bam": null,
+    "pos_sorted_bam": {
+        "bai_index_file": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/WRITE_POS_BAM/fork0/join-u31bfe1d6ae/files/pos_sorted_non_multiplexed.bam.bai",
+        "bam_file": "/home/cachris/geneva/lyria/bam_to_demux/21-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/WRITE_POS_BAM/fork0/join-u31bfe1d6ae/files/pos_sorted_non_multiplexed.bam",
+        "csi_index_file": null,
+        "sample": "non_multiplexed"
+    }
+}

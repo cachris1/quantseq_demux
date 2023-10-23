@@ -1,0 +1,3 @@
+
+        bcftools index         -o /home/cachris/geneva/hypoxia/indexed_vcfs/LN229.vcf.gz         /home/cachris/geneva/hypoxia/vcfs/LN229.vcf.gz 
+        

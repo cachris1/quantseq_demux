@@ -1,0 +1,19 @@
+{
+    "antibody_histograms": null,
+    "antigen_histograms": null,
+    "barcode_rank_plots": null,
+    "beam_analyzer": null,
+    "cloupe": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/CHOOSE_CLOUPE/fork0/chnk0-ue62ae23738/files/cloupe.cloupe",
+    "cmo_tsne_plot": null,
+    "count_summary": {
+        "feature_reference": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ue62ae2368c/files/feature_reference.csv",
+        "metrics_summary_csv": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ue62ae2368c/files/metrics_summary_csv.csv",
+        "metrics_summary_json": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ue62ae2368c/files/metrics_summary_json.json",
+        "web_summary": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ue62ae2368c/files/web_summary.html",
+        "ws_data": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_REPORTER/SUMMARIZE_REPORTS/fork0/chnk0-ue62ae2368c/files/ws_data.json"
+    },
+    "jibes_biplot_histogram": null,
+    "vdj_b_report": null,
+    "vdj_t_gd_report": null,
+    "vdj_t_report": null
+}

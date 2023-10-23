@@ -1,0 +1,34 @@
+{
+    "timestamp": "2023-08-21T05:44:27.454897909-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_TSNE/fork0/chnk0-ua672e35aa9/files/tsne_csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_TSNE/fork0/chnk0-ua672e35aa9/files/tsne_h5.h5",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_TSNE/fork0/join-ua672e35aa9/files/tsne_csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_TSNE/fork0/join-ua672e35aa9/files/tsne_h5.h5"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-21T05:38:01.726683515-07:00",
+            "DeltaBytes": 5056
+        },
+        {
+            "Timestamp": "2023-08-21T05:38:43.667494462-07:00",
+            "DeltaBytes": 1908319
+        },
+        {
+            "Timestamp": "2023-08-21T05:42:04.220767249-07:00",
+            "DeltaBytes": 1906892
+        },
+        {
+            "Timestamp": "2023-08-21T05:42:04.291287519-07:00",
+            "DeltaBytes": -1901218
+        },
+        {
+            "Timestamp": "2023-08-21T05:44:27.454897909-07:00",
+            "DeltaBytes": -1901218
+        }
+    ],
+    "count": 8,
+    "size": 3802436
+}

@@ -1,0 +1,43 @@
+2023-08-20 23:02:41 [time] __start__
+2023-08-21 06:02:52 [cr_ana::stages::graph_clustering] computing k-nearest neighbors with k = 310
+2023-08-21 06:02:52 [scan_rs::nn] constructing ball tree of 31330 points
+2023-08-21 06:02:52 [scan_rs::nn] querying points for 310 neighbors
+2023-08-21 06:02:54 [cr_ana::stages::graph_clustering] running louvain
+2023-08-21 06:02:54 [cr_ana::louvain] building network for neighbor matrix of shape: (31330,310)
+2023-08-21 06:02:56 [cr_ana::louvain] louvain starting cpm score: -0.000033
+2023-08-21 06:03:04 [cr_ana::louvain] louvain optimized in 53 iterations
+2023-08-21 06:03:04 [cr_ana::louvain] louvain final cpm score: 0.775265
+2023-08-21 06:03:04 [cr_ana::stages::graph_clustering] merging clusters
+2023-08-21 06:03:04 [scan_rs::merge_clusters] computing DE params on 33613 x 4095 matrix
+2023-08-21 06:03:07 [scan_rs::merge_clusters] computing DE on 3674 vs 421 cells
+2023-08-21 06:03:09 [scan_rs::merge_clusters] computing DE params on 33613 x 4303 matrix
+2023-08-21 06:03:12 [scan_rs::merge_clusters] computing DE on 2303 vs 2000 cells
+2023-08-21 06:03:15 [scan_rs::merge_clusters] computing DE params on 33613 x 2430 matrix
+2023-08-21 06:03:17 [scan_rs::merge_clusters] computing DE on 1856 vs 574 cells
+2023-08-21 06:03:19 [scan_rs::merge_clusters] found 0 DE genes, merging clusters 6 and 20.
+2023-08-21 06:03:19 [scan_rs::merge_clusters] computing DE params on 33613 x 2484 matrix
+2023-08-21 06:03:21 [scan_rs::merge_clusters] computing DE on 2183 vs 301 cells
+2023-08-21 06:03:23 [scan_rs::merge_clusters] computing DE params on 33613 x 3153 matrix
+2023-08-21 06:03:25 [scan_rs::merge_clusters] computing DE on 2430 vs 723 cells
+2023-08-21 06:03:27 [scan_rs::merge_clusters] computing DE params on 33613 x 2236 matrix
+2023-08-21 06:03:30 [scan_rs::merge_clusters] computing DE on 1305 vs 931 cells
+2023-08-21 06:03:32 [scan_rs::merge_clusters] found 0 DE genes, merging clusters 8 and 10.
+2023-08-21 06:03:32 [scan_rs::merge_clusters] computing DE params on 33613 x 970 matrix
+2023-08-21 06:03:34 [scan_rs::merge_clusters] computing DE on 626 vs 344 cells
+2023-08-21 06:03:35 [scan_rs::merge_clusters] computing DE params on 33613 x 1390 matrix
+2023-08-21 06:03:37 [scan_rs::merge_clusters] computing DE on 948 vs 442 cells
+2023-08-21 06:03:39 [scan_rs::merge_clusters] computing DE params on 33613 x 863 matrix
+2023-08-21 06:03:41 [scan_rs::merge_clusters] computing DE on 476 vs 387 cells
+2023-08-21 06:03:42 [scan_rs::merge_clusters] computing DE params on 33613 x 1314 matrix
+2023-08-21 06:03:44 [scan_rs::merge_clusters] computing DE on 734 vs 580 cells
+2023-08-21 06:03:46 [scan_rs::merge_clusters] computing DE params on 33613 x 3067 matrix
+2023-08-21 06:03:48 [scan_rs::merge_clusters] computing DE on 2236 vs 831 cells
+2023-08-21 06:03:51 [scan_rs::merge_clusters] computing DE params on 33613 x 1060 matrix
+2023-08-21 06:03:53 [scan_rs::merge_clusters] computing DE on 546 vs 514 cells
+2023-08-21 06:03:54 [scan_rs::merge_clusters] computing DE params on 33613 x 2527 matrix
+2023-08-21 06:03:57 [scan_rs::merge_clusters] computing DE on 2141 vs 386 cells
+2023-08-21 06:03:59 [scan_rs::merge_clusters] computing DE params on 33613 x 807 matrix
+2023-08-21 06:04:01 [scan_rs::merge_clusters] computing DE on 462 vs 345 cells
+2023-08-21 06:04:02 [scan_rs::merge_clusters] computing DE params on 33613 x 1049 matrix
+2023-08-21 06:04:04 [scan_rs::merge_clusters] computing DE on 789 vs 260 cells
+2023-08-20 23:04:06 [time] __end__

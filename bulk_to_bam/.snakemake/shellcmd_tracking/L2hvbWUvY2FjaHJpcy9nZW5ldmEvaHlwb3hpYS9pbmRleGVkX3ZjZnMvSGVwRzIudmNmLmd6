@@ -1,0 +1,3 @@
+
+        bcftools index         -o /home/cachris/geneva/hypoxia/indexed_vcfs/HepG2.vcf.gz         /home/cachris/geneva/hypoxia/vcfs/HepG2.vcf.gz 
+        

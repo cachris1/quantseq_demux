@@ -1,0 +1,41 @@
+{
+    "timestamp": "2023-08-20T15:56:42.611534557-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-u9625e2869a/files/filtered_bcs_groups.json",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-u9625e2869a/files/filtered_metrics_groups.json",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-u9625e2869a/files/nonambient_calls.csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-u9625e2869a/files/summary.json",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-u9625e28697/files/nonambient_calls.csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-u9625e28697/files/summary.json",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/FILTER_BARCODES/fork0/join-u9625e28697/files/filtered_barcodes.csv"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-20T14:33:11.867675465-07:00",
+            "DeltaBytes": 7232
+        },
+        {
+            "Timestamp": "2023-08-20T14:33:14.696444183-07:00",
+            "DeltaBytes": 3615254
+        },
+        {
+            "Timestamp": "2023-08-20T14:59:04.901923412-07:00",
+            "DeltaBytes": 339156655
+        },
+        {
+            "Timestamp": "2023-08-20T15:01:13.232121666-07:00",
+            "DeltaBytes": -6319575
+        },
+        {
+            "Timestamp": "2023-08-20T15:55:56.676967307-07:00",
+            "DeltaBytes": -1139
+        },
+        {
+            "Timestamp": "2023-08-20T15:56:42.611534557-07:00",
+            "DeltaBytes": -681512
+        }
+    ],
+    "count": 7,
+    "size": 7002226
+}

@@ -1,0 +1,19 @@
+{
+    "timestamp": "2023-08-21T11:59:53.953208237-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MERGE_METRICS/fork0/chnk0-u7139e3a571/files/summary.json"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-21T10:57:05.195324334-07:00",
+            "DeltaBytes": 11168
+        },
+        {
+            "Timestamp": "2023-08-21T11:59:53.953208237-07:00",
+            "DeltaBytes": -5523
+        }
+    ],
+    "count": 1,
+    "size": 5523
+}

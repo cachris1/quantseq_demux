@@ -1,0 +1,6 @@
+[
+    {
+        "feature_type": "Gene",
+        "tsne_dims": 2
+    }
+]

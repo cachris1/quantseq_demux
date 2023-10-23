@@ -1,0 +1,35 @@
+{
+    "feature_reference": null,
+    "force_cells": {
+        "per_gem_well": null,
+        "per_sample": null
+    },
+    "full_check": true,
+    "r1_length": null,
+    "r2_length": null,
+    "recovered_cells": {
+        "per_gem_well": null,
+        "per_sample": null
+    },
+    "reference_path": "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
+    "sample_def": [
+        {
+            "fastq_id": null,
+            "fastq_mode": "ILMN_BCL2FASTQ",
+            "gem_group": null,
+            "lanes": null,
+            "library_type": "Gene Expression",
+            "read_path": "/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA",
+            "sample_indices": [
+                "any"
+            ],
+            "sample_names": [
+                "21-4"
+            ],
+            "subsample_rate": null,
+            "target_set": null,
+            "target_set_name": null
+        }
+    ],
+    "targeting_method": null
+}

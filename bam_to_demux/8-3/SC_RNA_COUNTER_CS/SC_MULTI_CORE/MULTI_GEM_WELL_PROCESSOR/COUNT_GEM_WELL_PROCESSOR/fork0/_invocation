@@ -1,0 +1,134 @@
+@include "rna/_sc_multi_defs.mro"
+
+call COUNT_GEM_WELL_PROCESSOR(
+    gem_group                    = 1,
+    sample_id                    = "8-3",
+    multi_config_sha             = null,
+    inputs                       = {
+        aligner:                     null,
+        cell_calling_config: {
+            cell_barcodes:                        null,
+            disable_ab_aggregate_detection:       false,
+            disable_high_occupancy_gem_detection: false,
+            emptydrops_minimum_umis: {
+                per_gem_well: null,
+                per_sample:   null,
+            },
+            force_cells: {
+                per_gem_well: null,
+                per_sample:   null,
+            },
+            override_library_types:               null,
+            override_mode:                        null,
+            recovered_cells: {
+                per_gem_well: null,
+                per_sample:   null,
+            },
+        },
+        check_library_compatibility: true,
+        custom_chemistry_def:        null,
+        feature_reference:           null,
+        filter_probes:               null,
+        force_sample_barcodes: {
+            cells_per_tag:        null,
+            non_singlet_barcodes: null,
+            sample_barcodes:      null,
+        },
+        gene_index:                  "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/FULL_COUNT_INPUTS/WRITE_GENE_INDEX/fork0/chnk0-ua672e30203/files/gene_index.json",
+        include_introns:             true,
+        initial_reads:               null,
+        min_assignment_confidence:   null,
+        no_bam:                      false,
+        no_target_umi_filter:        false,
+        primers: [
+            {
+                "name": "P5",
+                "seq": "AATGATACGGCGACCACCGAGATCT",
+            },
+            {
+                "name": "P7",
+                "seq": "CAAGCAGAAGACGGCATACGAGAT",
+            },
+            {
+                "name": "R1",
+                "seq": "ACACTCTTTCCCTACACGACG",
+            },
+            {
+                "name": "R2",
+                "seq": "GTGACTGGAGTTCAGACGTGTG",
+            },
+            {
+                "name": "switch_oligo",
+                "seq": "AAGCAGTGGTATCAACGCAGAGTACATGGG",
+            },
+            {
+                "name": "polyA",
+                "seq": "AAAAAAAAAAAAAAAAAAAA",
+            },
+        ],
+        r1_length:                   null,
+        r2_length:                   null,
+        reference_path:              "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
+        sample_def: [
+            {
+                "fastq_id": null,
+                "fastq_mode": "ILMN_BCL2FASTQ",
+                "gem_group": null,
+                "lanes": null,
+                "library_type": "Gene Expression",
+                "read_path": "/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA",
+                "sample_indices": ["any"],
+                "sample_names": ["8-3"],
+                "subsample_rate": null,
+                "target_set": null,
+                "target_set_name": null,
+            },
+        ],
+        subsample_rate:              null,
+        targeting_method:            null,
+        trim_polya_min_score:        20,
+        trim_tso_min_score:          20,
+    },
+    chem                         = {
+        chemistry_def: {
+            barcode: [
+                {
+                    kind:      "gel_bead",
+                    length:    16,
+                    offset:    0,
+                    read_type: "R1",
+                    whitelist: {
+                        "name": "3M-february-2018",
+                    },
+                },
+            ],
+            description:  "Single Cell 3' v3",
+            endedness:    "three_prime",
+            name:         "SC3Pv3",
+            rna: {
+                length:     null,
+                min_length: null,
+                offset:     0,
+                read_type:  "R2",
+            },
+            rna2:         null,
+            strandedness: "+",
+            umi: [
+                {
+                    length:     12,
+                    min_length: 10,
+                    offset:     16,
+                    read_type:  "R1",
+                    whitelist:  null,
+                },
+            ],
+        },
+        chemistry_type:   "SC3Pv3",
+        is_antibody_only: false,
+    },
+    libraries_to_translate       = [],
+    is_pd                        = false,
+    disable_multi                = true,
+    multi_graph                  = null,
+    antigen_specificity_controls = null,
+)

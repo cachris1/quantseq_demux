@@ -1,0 +1,28 @@
+{
+    "timestamp": "2023-08-20T15:54:26.291121221-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-u9625e295dc/files/cloupe_matrix_h5.h5",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-u9625e295dc/files/preprocessed_matrix_h5.h5"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-20T15:38:20.542075899-07:00",
+            "DeltaBytes": 5177
+        },
+        {
+            "Timestamp": "2023-08-20T15:38:21.517270148-07:00",
+            "DeltaBytes": 183170727
+        },
+        {
+            "Timestamp": "2023-08-20T15:39:26.053096789-07:00",
+            "DeltaBytes": -91972152
+        },
+        {
+            "Timestamp": "2023-08-20T15:54:26.291121221-07:00",
+            "DeltaBytes": -91191755
+        }
+    ],
+    "count": 2,
+    "size": 183163907
+}

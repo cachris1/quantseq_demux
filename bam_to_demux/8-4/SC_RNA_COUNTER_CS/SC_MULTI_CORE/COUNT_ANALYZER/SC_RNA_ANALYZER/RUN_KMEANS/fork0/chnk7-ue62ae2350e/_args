@@ -1,0 +1,13 @@
+{
+    "__mem_gb": 6,
+    "__threads": 1,
+    "__vmem_gb": 9,
+    "library": "Gene Expression",
+    "matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-ue62ae2331a/files/preprocessed_matrix_h5.h5",
+    "max_clusters": null,
+    "n_clusters": 9,
+    "num_bcs": null,
+    "num_pcs": null,
+    "pca_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_PCA/fork0/join-ue62ae23356/files/pca_h5.h5",
+    "random_seed": null
+}

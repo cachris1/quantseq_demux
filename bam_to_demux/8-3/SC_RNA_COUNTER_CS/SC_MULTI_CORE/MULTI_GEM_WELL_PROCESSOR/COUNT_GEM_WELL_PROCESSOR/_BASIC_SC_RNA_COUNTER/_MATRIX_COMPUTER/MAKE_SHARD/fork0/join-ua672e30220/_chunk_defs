@@ -1,0 +1,10 @@
+[
+    {
+        "chunk_id": 0,
+        "feature_reference": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/split-ua672e30220/files/feature_reference.frf.bincode"
+    },
+    {
+        "chunk_id": 1,
+        "feature_reference": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/split-ua672e30220/files/feature_reference.frf.bincode"
+    }
+]

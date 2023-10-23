@@ -1,0 +1,26 @@
+{
+    "timestamp": "2023-08-20T15:51:40.432297356-07:00",
+    "paths": [
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/chnk0-u9625e298d2/files/clusters_csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/chnk0-u9625e298d2/files/clusters_h5.h5",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-u9625e298d2/files/clusters_csv",
+        "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-u9625e298d2/files/clusters_h5.h5"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-08-20T15:50:58.796699508-07:00",
+            "DeltaBytes": 792297
+        },
+        {
+            "Timestamp": "2023-08-20T15:51:39.83970253-07:00",
+            "DeltaBytes": 783465
+        },
+        {
+            "Timestamp": "2023-08-20T15:51:40.000828699-07:00",
+            "DeltaBytes": -1555474
+        }
+    ],
+    "count": 8,
+    "size": 1555474
+}

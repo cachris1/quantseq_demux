@@ -1,0 +1,3 @@
+
+        samtools index -@ 7 /home/cachris/geneva/hypoxia/star/12099/Aligned.sortedByCoord.out.bam
+        

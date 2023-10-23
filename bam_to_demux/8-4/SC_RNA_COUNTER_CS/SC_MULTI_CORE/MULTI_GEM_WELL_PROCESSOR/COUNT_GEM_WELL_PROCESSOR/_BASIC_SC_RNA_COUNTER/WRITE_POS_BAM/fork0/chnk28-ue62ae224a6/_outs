@@ -1,0 +1,5 @@
+{
+  "sample_pos_sorted_bam_chunks": {
+    "non_multiplexed": "/home/cachris/geneva/lyria/bam_to_demux/8-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/MULTI_GEM_WELL_PROCESSOR/COUNT_GEM_WELL_PROCESSOR/_BASIC_SC_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk28-ue62ae224a6/files/pos_sortednon_multiplexed.bam"
+  }
+}

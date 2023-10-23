@@ -1,0 +1,14 @@
+{
+    "bait_fasta": null,
+    "disable_target_umi_filter": true,
+    "disable_targeted": true,
+    "no_bam": false,
+    "probe_set": null,
+    "rps_limit": null,
+    "target_gene_indices": null,
+    "target_panel": null,
+    "target_panel_or_probe_set": null,
+    "target_panel_summary": null,
+    "target_set_name": null,
+    "targeting_method": null
+}

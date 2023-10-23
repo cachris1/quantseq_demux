@@ -1,0 +1,1089 @@
+{
+  "chunks": [
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AACACAGTTCTGGTTG",
+          "valid": false
+        },
+        "start": null
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AAGGCCATTCAAGAAA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AACACAGTTCTGGTTG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AATTCCTCTTTTTCAG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AAGGCCATTCAAGAAA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ACATAAAAGAAAAAAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AATTCCTCTTTTTCAG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ACCGTGGTAGCCCTGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ACATAAAAGAAAAAAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ACTACCACAACCCTCT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ACCGTGGTAGCCCTGA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGAAAACCAAGATTTA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ACTACCACAACCCTCT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGCACCAAGTGCGCTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGAAAACCAAGATTTA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGGCCANAGGTCACAG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGCACCAAGTGCGCTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "AGTCTCTGCTCACTAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGGCCANAGGTCACAG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATAGACACAAAGGTCT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "AGTCTCTGCTCACTAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATCCTTTTAGCTCTGT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATAGACACAAAGGTCT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATGGGTTTTGCGCATT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATCCTTTTAGCTCTGT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "ATTGTCTAATGCGCTA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATGGGTTTTGCGCATT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CAAGCACGTCGAGCCA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "ATTGTCTAATGCGCTA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CACCTCTAACTCATTA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CAAGCACGTCGAGCCA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CAGCAGTCCCCAGGGC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CACCTCTAACTCATTA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CATCACAAGCGACAGT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CAGCAGTCCCCAGGGC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CATTGAGGTACATAAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CATCACAAGCGACAGT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCATAAACATGCCGAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CATTGAGGTACATAAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCCTCTCACACCTCTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCATAAACATGCCGAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCTAACCCTGTCTCTA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCCTCTCACACCTCTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CCTCTCCCTCCAAATT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCTAACCCTGTCTCTA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CGAGACTCAATGTGGG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CCTCTCCCTCCAAATT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CGGGCCTTCTGGGAGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CGAGACTCAATGTGGG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTAACTCGTACGTTCA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CGGGCCTTCTGGGAGA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTCAACCAGGAGACAA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTAACTCGTACGTTCA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTCCCTCATGGACAAT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTCAACCAGGAGACAA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTCTTGTTCTAGTGAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTCCCTCATGGACAAT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTGTATTGTGGATCTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTCTTGTTCTAGTGAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "CTTGAACGCAACGCAT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTGTATTGTGGATCTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GAATATGCAGCATACT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "CTTGAACGCAACGCAT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GACTCTCCATGACCTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GAATATGCAGCATACT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GAGTTGTCAGACACCT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GACTCTCCATGACCTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GATTCTTCCATGGAAG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GAGTTGTCAGACACCT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GCATTAGGTCCTAAGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GATTCTTCCATGGAAG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GCCTGTTTCTTTCTAA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GCATTAGGTCCTAAGA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GCTTGGGGTTAGCCTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GCCTGTTTCTTTCTAA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGCCGCCCTCAGACCC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GCTTGGGGTTAGCCTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGGGATTGTTGGGTAG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGCCGCCCTCAGACCC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GGTGCACACTGCGTGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGGGATTGTTGGGTAG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTAGAAACAAAGGGAT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GGTGCACACTGCGTGA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTCCCTCAATATTCTT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTAGAAACAAAGGGAT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTGCTGGAGTTACAGG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTCCCTCAATATTCTT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "GTTCACGAGGCCATAG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTGCTGGAGTTACAGG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "NGGAAGTTCTGGTTGA",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "GTTCACGAGGCCATAG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TAATTCCATTCAATCC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "NGGAAGTTCTGGTTGA",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TACGTCCTTGATTAAT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TAATTCCATTCAATCC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TATATCCCTCTCCAAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TACGTCCTTGATTAAT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCAATTCGTATTAAGT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TATATCCCTCTCCAAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCAGTCCTCAGCAATG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCAATTCGTATTAAGT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCCACGTTCTTACTGG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCAGTCCTCAGCAATG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCCTCTTCAAGCAGTG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCCACGTTCTTACTGG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCGGTCGCGTTACCGC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCCTCTTCAAGCAGTG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TCTGCCACGCACCTTC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCGGTCGCGTTACCGC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGAGACTAGCGTTGCG",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TCTGCCACGCACCTTC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGCCGATTCACTTGTT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGAGACTAGCGTTGCG",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGGGCGTCAACTTGCT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGCCGATTCACTTGTT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TGTTACTGTTGAGGGC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGGGCGTCAACTTGCT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTACTGTTAATGGAAT",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TGTTACTGTTGAGGGC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTCCGATCACTAGTAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTACTGTTAATGGAAT",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTGACCCTCCCTCACC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTCCGATCACTAGTAC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": {
+          "gem_group": 1,
+          "sequence": "TTTAATGCAAGCCCAC",
+          "valid": false
+        },
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTGACCCTCCCTCACC",
+          "valid": false
+        }
+      }
+    },
+    {
+      "__mem_gb": null,
+      "__threads": null,
+      "__vmem_gb": null,
+      "range": {
+        "end": null,
+        "start": {
+          "gem_group": 1,
+          "sequence": "TTTAATGCAAGCCCAC",
+          "valid": false
+        }
+      }
+    }
+  ],
+  "join": {
+    "__mem_gb": null,
+    "__threads": null,
+    "__vmem_gb": null
+  }
+}

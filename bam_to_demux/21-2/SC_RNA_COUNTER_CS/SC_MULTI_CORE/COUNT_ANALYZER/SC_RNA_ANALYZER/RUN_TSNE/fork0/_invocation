@@ -1,0 +1,15 @@
+@include "rna/_cr_ana_stages.mro"
+
+call RUN_TSNE_NG as RUN_TSNE(
+    matrix_h5        = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-u7139e3b10a/files/preprocessed_matrix_h5.h5",
+    pca_h5           = "/home/cachris/geneva/lyria/bam_to_demux/21-2/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_PCA/fork0/join-u7139e3b144/files/pca_h5.h5",
+    random_seed      = null,
+    perplexity       = null,
+    input_pcs        = null,
+    max_dims         = null,
+    max_iter         = null,
+    stop_lying_iter  = null,
+    mom_switch_iter  = null,
+    theta            = null,
+    is_antibody_only = false,
+)

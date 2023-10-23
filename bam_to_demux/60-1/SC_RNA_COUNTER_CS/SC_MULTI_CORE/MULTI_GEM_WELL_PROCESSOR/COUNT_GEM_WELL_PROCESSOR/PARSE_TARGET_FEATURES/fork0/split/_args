@@ -1,0 +1,28 @@
+{
+    "filter_probes": null,
+    "gene_index": "/home/cachris/geneva/lyria/bam_to_demux/60-1/SC_RNA_COUNTER_CS/FULL_COUNT_INPUTS/WRITE_GENE_INDEX/fork0/chnk0-u9625e23743/files/gene_index.json",
+    "is_pd": false,
+    "no_bam": false,
+    "no_target_umi_filter": false,
+    "reference_path": "/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A",
+    "rps_limit": null,
+    "sample_def": [
+        {
+            "fastq_id": null,
+            "fastq_mode": "ILMN_BCL2FASTQ",
+            "gem_group": null,
+            "lanes": null,
+            "library_type": "Gene Expression",
+            "read_path": "/home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA",
+            "sample_indices": [
+                "any"
+            ],
+            "sample_names": [
+                "60-1"
+            ],
+            "subsample_rate": null,
+            "target_set": null,
+            "target_set_name": null
+        }
+    ]
+}

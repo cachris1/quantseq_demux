@@ -1,0 +1,7 @@
+{
+    "is_antibody_only": false,
+    "matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/60-4/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-u73b1e2fb09/files/preprocessed_matrix_h5.h5",
+    "num_pca_genes": null,
+    "num_principal_comps": null,
+    "pca_map": null
+}

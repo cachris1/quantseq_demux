@@ -1,0 +1,27 @@
+2023-08-20 15:50:58 [time] __start__
+2023-08-20 22:51:07 [cr_ana::stages::graph_clustering] computing k-nearest neighbors with k = 300
+2023-08-20 22:51:07 [scan_rs::nn] constructing ball tree of 26212 points
+2023-08-20 22:51:07 [scan_rs::nn] querying points for 300 neighbors
+2023-08-20 22:51:08 [cr_ana::stages::graph_clustering] running louvain
+2023-08-20 22:51:08 [cr_ana::louvain] building network for neighbor matrix of shape: (26212,300)
+2023-08-20 22:51:10 [cr_ana::louvain] louvain starting cpm score: -0.000040
+2023-08-20 22:51:17 [cr_ana::louvain] louvain optimized in 57 iterations
+2023-08-20 22:51:17 [cr_ana::louvain] louvain final cpm score: 0.748155
+2023-08-20 22:51:17 [cr_ana::stages::graph_clustering] merging clusters
+2023-08-20 22:51:17 [scan_rs::merge_clusters] computing DE params on 33441 x 5848 matrix
+2023-08-20 22:51:19 [scan_rs::merge_clusters] computing DE on 4091 vs 1757 cells
+2023-08-20 22:51:21 [scan_rs::merge_clusters] computing DE params on 33441 x 1732 matrix
+2023-08-20 22:51:23 [scan_rs::merge_clusters] computing DE on 1399 vs 333 cells
+2023-08-20 22:51:24 [scan_rs::merge_clusters] computing DE params on 33441 x 1106 matrix
+2023-08-20 22:51:25 [scan_rs::merge_clusters] computing DE on 568 vs 538 cells
+2023-08-20 22:51:26 [scan_rs::merge_clusters] computing DE params on 33441 x 890 matrix
+2023-08-20 22:51:28 [scan_rs::merge_clusters] computing DE on 457 vs 433 cells
+2023-08-20 22:51:29 [scan_rs::merge_clusters] computing DE params on 33441 x 524 matrix
+2023-08-20 22:51:30 [scan_rs::merge_clusters] computing DE on 290 vs 234 cells
+2023-08-20 22:51:31 [scan_rs::merge_clusters] computing DE params on 33441 x 2074 matrix
+2023-08-20 22:51:33 [scan_rs::merge_clusters] computing DE on 1724 vs 350 cells
+2023-08-20 22:51:34 [scan_rs::merge_clusters] computing DE params on 33441 x 1616 matrix
+2023-08-20 22:51:35 [scan_rs::merge_clusters] computing DE on 895 vs 721 cells
+2023-08-20 22:51:37 [scan_rs::merge_clusters] computing DE params on 33441 x 1158 matrix
+2023-08-20 22:51:38 [scan_rs::merge_clusters] computing DE on 746 vs 412 cells
+2023-08-20 15:51:39 [time] __end__

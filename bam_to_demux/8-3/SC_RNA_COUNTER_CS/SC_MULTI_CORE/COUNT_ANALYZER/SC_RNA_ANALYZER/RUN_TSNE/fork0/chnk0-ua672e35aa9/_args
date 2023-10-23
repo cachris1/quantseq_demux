@@ -1,0 +1,18 @@
+{
+    "__mem_gb": 4,
+    "__threads": 1,
+    "__vmem_gb": 7,
+    "feature_type": "Gene",
+    "input_pcs": null,
+    "is_antibody_only": false,
+    "matrix_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-ua672e35928/files/preprocessed_matrix_h5.h5",
+    "max_dims": null,
+    "max_iter": null,
+    "mom_switch_iter": null,
+    "pca_h5": "/home/cachris/geneva/lyria/bam_to_demux/8-3/SC_RNA_COUNTER_CS/SC_MULTI_CORE/COUNT_ANALYZER/SC_RNA_ANALYZER/RUN_PCA/fork0/join-ua672e3596c/files/pca_h5.h5",
+    "perplexity": null,
+    "random_seed": null,
+    "stop_lying_iter": null,
+    "theta": null,
+    "tsne_dims": 2
+}
