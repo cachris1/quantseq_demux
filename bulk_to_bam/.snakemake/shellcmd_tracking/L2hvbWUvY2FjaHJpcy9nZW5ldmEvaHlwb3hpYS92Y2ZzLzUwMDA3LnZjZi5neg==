@@ -1,3 +1,0 @@
-
-        bcftools mpileup         -d 115         -C 50         -Ou -f /home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/fasta/genome.fa /home/cachris/geneva/hypoxia/dedup_bams/50007/Aligned.sortedByCoord.out.bam 2> /home/cachris/geneva/hypoxia/logs/vcf/50007.log |         bcftools call         -Ou -mv -f GP - 2> /home/cachris/geneva/hypoxia/logs/vcf/50007.log |         bcftools filter         -e 'QUAL<20 || DP>250 || MAF<0.2'         -Ou -o /home/cachris/geneva/hypoxia/vcfs/50007.vcf.gz - 2> /home/cachris/geneva/hypoxia/logs/vcf/50007.log 
-        

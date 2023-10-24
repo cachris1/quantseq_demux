@@ -1,5 +1,0 @@
-Building DAG of jobs...
-MissingInputException in rule all in file /home/cachris/geneva/lyria/bulk_to_bam/Snakefile, line 16:
-Missing input files for rule all:
-    affected files:
-        /home/cachris/geneva/hypoxia/merged_vcf2.vcf.gz

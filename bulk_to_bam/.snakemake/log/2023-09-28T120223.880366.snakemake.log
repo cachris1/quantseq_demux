@@ -1,3 +1,0 @@
-CreateRuleException in file /home/cachris/projects/geneva/lyria/bulk_to_bam/Snakefile, line 358:
-The name demuxlet is already used by another rule
-  File "/home/cachris/projects/geneva/lyria/bulk_to_bam/Snakefile", line 358, in <module>

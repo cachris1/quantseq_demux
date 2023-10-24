@@ -1,3 +1,0 @@
-
-        bcftools sort /home/cachris/geneva/hypoxia/vcfs/10689.vcf.gz > /home/cachris/geneva/hypoxia/sorted_vcfs/10689.vcf         && bgzip /home/cachris/geneva/hypoxia/sorted_vcfs/10689.vcf > /home/cachris/geneva/hypoxia/sorted_vcfs/10689.vcf.gz         && bcftools index         -o /home/cachris/geneva/hypoxia/indexed_vcfs/10689.vcf.gz         /home/cachris/geneva/hypoxia/sorted_vcfs/10689.vcf.gz 
-        

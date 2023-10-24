@@ -1,3 +1,0 @@
-
-        bcftools sort /home/cachris/geneva/hypoxia/vcfs/MDA231.vcf.gz > /home/cachris/geneva/hypoxia/sorted_vcfs/MDA231.vcf         && bgzip /home/cachris/geneva/hypoxia/sorted_vcfs/MDA231.vcf > /home/cachris/geneva/hypoxia/sorted_vcfs/MDA231.vcf.gz         && bcftools index         -o /home/cachris/geneva/hypoxia/indexed_vcfs/MDA231.vcf.gz         /home/cachris/geneva/hypoxia/sorted_vcfs/MDA231.vcf.gz 
-        

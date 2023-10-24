@@ -1,3 +1,0 @@
-
-        umi_tools extract         --extract-method=string --bc-pattern X          --bc-pattern2 NNNNNNNNNN         -L /home/cachris/geneva/hypoxia/logs/UMI_extract.log         -S /home/cachris/geneva/hypoxia/extracted_fastqs/50004.R1.fastq.gz         -I /home/cachris/geneva/hypoxia/demux_fastqs/50004_R1.fastq.gz         --read2-in=/home/cachris/geneva/hypoxia/demux_fastqs/50004_R2.fastq.gz         --read2-out=/dev/null 
-        

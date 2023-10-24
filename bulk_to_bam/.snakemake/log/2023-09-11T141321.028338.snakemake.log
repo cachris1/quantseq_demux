@@ -1,7 +1,0 @@
-Building DAG of jobs...
-MissingInputException in rule cellranger_combined in file /home/cachris/projects/geneva/lyria/bulk_to_bam/Snakefile, line 306:
-Missing input files for rule cellranger_combined:
-    output: /home/cachris/projects/geneva/hypoxia/cellranger_human_mouse_combined/8-3_barn/possorted_genome_bam.bam
-    wildcards: sc_samples=8-3
-    affected files:
-        /home/cachris/geneva/hypoxia/data/TSHG10_hypoxia_GENEVA

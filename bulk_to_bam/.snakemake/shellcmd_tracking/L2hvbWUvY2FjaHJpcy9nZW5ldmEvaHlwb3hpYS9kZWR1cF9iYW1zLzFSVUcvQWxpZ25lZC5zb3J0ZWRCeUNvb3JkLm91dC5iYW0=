@@ -1,3 +1,0 @@
-
-        umi_tools dedup         -I /home/cachris/geneva/hypoxia/star/1RUG/Aligned.sortedByCoord.out.bam         -S /home/cachris/geneva/hypoxia/dedup_bams/1RUG/Aligned.sortedByCoord.out.bam         --multimapping-detection-method=NH         --output-stats=/home/cachris/geneva/hypoxia/dedup_bams/1RUG/deduplicated.txt         > /home/cachris/geneva/hypoxia/logs/dedup/1RUG.log 2>&1 
-        

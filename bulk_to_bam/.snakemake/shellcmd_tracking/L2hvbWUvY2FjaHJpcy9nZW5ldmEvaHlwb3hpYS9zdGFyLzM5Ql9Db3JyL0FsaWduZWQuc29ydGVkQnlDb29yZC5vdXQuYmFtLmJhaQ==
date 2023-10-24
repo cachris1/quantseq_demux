@@ -1,3 +1,0 @@
-
-        samtools index -@ 1 /home/cachris/geneva/hypoxia/star/39B_Corr/Aligned.sortedByCoord.out.bam         && mkdir /home/cachris/geneva/hypoxia/dedup_bams/39B_Corr/
-        

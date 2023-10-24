@@ -1,3 +1,0 @@
-SyntaxError:
-Not all output, log and benchmark files of rule UMI_extract contain the same wildcards. This is crucial though, in order to avoid that two or more jobs write to the same file.
-  File "/home/cachris/geneva/lyria/bulk_to_bam/Snakefile", line 35, in <module>
