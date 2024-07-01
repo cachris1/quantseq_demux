@@ -1,46 +1,53 @@
 # a re-implementation of the quantseqPool analysis.sh 
 configfile: "config.yaml"
 working_dir = config['working_dir']
-data_dir = config['bulk_rna_data_dir']
 star_genome_dir = config['star_genome']
 sample_sheet = config['sample_sheet']
-
+gtf = config['gtf']
+tx_fa = config['tx_fa']
 import pandas as pd
 SAMPLES = pd.read_csv(sample_sheet).iloc[:,0]
 
-shell("conda config --add envs_dirs /home/cachris/miniconda3/envs")
+shell("conda config --add envs_dirs /home/cachris/.conda/envs/")
 
 rule all:
     input:
-        expand(working_dir + "dedup_bams/{sample}/Aligned.sortedByCoord.out.bam",sample = SAMPLES)
+        expand(working_dir +   "salmon/{sample}/quant.sf" ,sample = SAMPLES)
+
 
 rule demux:
     input:
-        r1 = data_dir + "/TSHG12/combined_R1.fastq.gz",
-        r2 = data_dir + "/TSHG12/combined_R2.fastq.gz",
-        samples = data_dir + "sample_sheet.csv",
+        r1 = config['bulk_rna_r1'],
+        r2 = config['bulk_rna_r2'],
+        samples = sample_sheet,
     output:
         stats = working_dir + "demux_fastqs/demultipexing_stats.tsv",
-        dirr = working_dir + "demux_fastqs",
         for_all = expand(working_dir + "demux_fastqs/{sample}_R1.fastq.gz", sample= SAMPLES),
         for_all2 = expand(working_dir + "demux_fastqs/{sample}_R2.fastq.gz", sample= SAMPLES)
+    conda:
+        "chris-base"
     log: 
         working_dir + "logs/idemux.log",
+    params:
+        dirr = working_dir + "demux_fastqs",
     threads:
-        10
+        20
     shell:
-        "idemux --r1 {input.r1} --r2 {input.r2}  --sample-sheet {input.samples}  --out {output.dirr}  > {log} 2>&1"
+        "idemuxCPP -m /home/cachris/.conda/envs/chris-base/share/idemuxcpp/barcodes/ --r1 {input.r1} --r2 {input.r2}  --sample-sheet {input.samples}  --out {params.dirr}  > {log} 2>&1"
+
+
 
 rule UMI_extract:
     input:
-     #   for_all = expand(working_dir + "demux_fastqs/{sample}_R1.fastq.gz", sample = SAMPLES),
         r1 = working_dir + "demux_fastqs/{sample}_R1.fastq.gz",
-        r2 = working_dir + "demux_fastqs/{sample}_R2.fastq.gz"
+        r2 = working_dir + "demux_fastqs/{sample}_R2.fastq.gz",
     output:
-    #    for_all = expand(working_dir + "extracted_fastqs/{sample}.R1.fastq.gz", sample= SAMPLES),
-        r1 = working_dir + "extracted_fastqs/{sample}.R1.fastq.gz"
+        r1 = working_dir + "extracted_fastqs/{sample}.R1.fastq.gz",
+        r2 = working_dir + "extracted_fastqs/{sample}.R2.fastq.gz",
     log:
-        working_dir + "logsUMI_extract/{sample}.log"
+        working_dir + "logsUMI_extract/{sample}.log",
+    conda:
+        "quantseq"
     shell:
         """
         umi_tools extract \
@@ -50,8 +57,10 @@ rule UMI_extract:
         -S {output.r1} \
         -I {input.r1} \
         --read2-in={input.r2} \
-        --read2-out=/dev/null 
+        --read2-out={output.r2}  
         """
+
+
 
 rule cutadapt:
     input:
@@ -61,10 +70,12 @@ rule cutadapt:
     log: 
         out = "{sample}_stdout.log",
         err = "{sample}_stderr.err"
+    conda:
+        "quantseq"
     shell:
         """
         cutadapt -m 20 -O 20 -a "polyA=A{{20}}" \
-        -a "QUALITY=G{{20}}" -n 2 /home/cachris/geneva/hypoxia/extracted_fastqs/SW620.R1.fastq.gz 2>>{log.err} | \
+        -a "QUALITY=G{{20}}" -n 2 {input.r1} 2>>{log.err} | \
         cutadapt  -m 20 -O 3 \
         --nextseq-trim=10  \
         -a "r1adapter=A{{18}}AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC;min_overlap=3;max_error_rate=0.100000" - \
@@ -72,33 +83,36 @@ rule cutadapt:
         -a "r1polyA=A{{18}}" - | \
         cutadapt -m 20 -O 20 \
         -g "r1adapter=AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC;min_overlap=20" \
-        --discard-trimmed -o /home/cachris/geneva/hypoxia/trimmed_fastqs/SW620.R1.fastq.gz  - 2> {log.err} 1> {log.out}
+        --discard-trimmed -o {output.r1} - 2> {log.err} 1> {log.out}
         """
 
-rule star_se:
+
+rule star_pe:
     input:
         fq1 = working_dir + "trimmed_fastqs/{sample}.R1.fastq.gz", 
+        #fq2 = working_dir + "trimmed_fastqs/{sample}.R2.fastq.gz",
         # path to STAR reference genome index
-        idx="/home/genomes/cellranger_refs/refdata-gex-GRCh38-2020-A/star",
+        idx=star_genome_dir,
     output:
         # see STAR manual for additional output files
-        aln = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
+        aln = working_dir + "star/{sample}/Aligned.toTranscriptome.out.bam",
         log = working_dir + "star/{sample}/Log.out",
         log_final = working_dir + "star/{sample}/Log.final.out", 
     params:
         out_prefix = working_dir + "star/{sample}/",
     log:
         working_dir + "logs/star/{sample}.log",
-    threads: 10
+    threads: 15
     conda:
-        "quantseq"
+        "chris-base"
     shell:
         """
         STAR \
-        --runThreadN 10 \
+        --runThreadN 15 \
         --genomeDir {input.idx} \
         --readFilesIn {input.fq1} \
         --readFilesCommand zcat \
+        --quantMode TranscriptomeSAM \
         --outSAMtype BAM SortedByCoordinate \
         --outFilterType BySJout \
         --outFilterMultimapNmax 200 \
@@ -115,31 +129,43 @@ rule star_se:
         """
 
 
+rule sort:
+    input:
+	    bam = working_dir + "star/{sample}/Aligned.toTranscriptome.out.bam",
+    output:
+	    bams = working_dir + "star/{sample}/Aligned.toTranscriptome.sort.out.bam",
+    shell:
+        """
+        samtools sort {input.bam} -o {output.bams}
+        """
+
 
 rule index:
     input:
-        bam = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
+        bam = working_dir + "star/{sample}/Aligned.toTranscriptome.sort.out.bam",
     output:
-        bai = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam.bai",
+        bai = working_dir + "star/{sample}/Aligned.toTranscriptome.sort.out.bam.bai",
     params:
         new_dir = working_dir + "dedup_bams/{sample}/"
     threads:
-        1
+	    1
     conda:
-        "quantseq"
+        "chris-base"
     shell:
         """
-        samtools index -@ {threads} {input.bam} \
-        && mkdir {params.new_dir}
+        samtools index -@ {threads} {input.bam} 
+       
         """
+
+
 
 
 rule dedup:
     input:
-        bam = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam",
-        bai = working_dir + "star/{sample}/Aligned.sortedByCoord.out.bam.bai",
+        bam = working_dir + "star/{sample}/Aligned.toTranscriptome.sort.out.bam",
+        bai = working_dir + "star/{sample}/Aligned.toTranscriptome.sort.out.bam.bai",
     output:
-        bam = working_dir + "dedup_bams/{sample}/Aligned.sortedByCoord.out.bam",
+        bam = working_dir + "dedup_bams/{sample}/Aligned.toTranscriptome.out.bam",
        # stats = working_dir + "dedup_bams/{sample}/deduplicated.txt",
     params:
         stats = working_dir + "dedup_bams/{sample}/deduplicated.txt",
@@ -156,3 +182,21 @@ rule dedup:
         --output-stats={params.stats} \
         > {log} 2>&1 
         """
+
+
+rule salmon:
+    input:
+	    bam = working_dir + "dedup_bams/{sample}/Aligned.toTranscriptome.out.bam"
+    output:
+	    quant = working_dir + "salmon/{sample}/quant.sf",
+    params:
+	    tx_fa = tx_fa,
+	    out = working_dir + "salmon/{sample}",
+    conda:
+        "salmon"
+    shell:
+        """
+        salmon quant -a {input.bam} -t {params.tx_fa} -o {params.out} -l a
+        """
+
+        

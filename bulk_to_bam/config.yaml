@@ -1,6 +1,9 @@
 ---
-working_dir:  "/home/cachris/projects/geneva/hypoxia/analysis/"
-bulk_rna_data_dir:  "/home/cachris/projects/geneva/hypoxia/data/TSHG12_QSP_ALS_hypoxia_RM_Kevan_GENEVA/"
-star_genome:  "/home/genomes/hg38/star_hg38/"
-sample_sheet: "/home/cachris/projects/geneva/hypoxia/data/TSHG12_QSP_ALS_hypoxia_RM_Kevan_GENEVA/sample_sheet.csv"
+working_dir:  "/home/cachris/data/projects/ageing_bulk/analysis_seq1/"
 
+bulk_rna_r1:  "/large_experiments/goodarzilab/cachris/projects/ageing_bulk/data/seq1/Undetermined_S0_L007_R1_001.fastq.gz"
+bulk_rna_r2:  "/large_experiments/goodarzilab/cachris/projects/ageing_bulk/data/seq1/Undetermined_S0_L007_R2_001.fastq.gz"
+star_genome:  "/large_experiments/goodarzilab/cachris/data/star_mm10/"
+sample_sheet: "/home/cachris/data/projects/ageing_bulk/sample_sheet.csv"
+gtf: "/home/cachris/data/star_mm10/gencode.vM10.annotation.gtf"
+tx_fa: "/home/cachris/data/data/star_mm10/mm10_transcripts.fa"
